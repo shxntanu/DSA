@@ -32,5 +32,5 @@ def update_readme(directory):
     with open(readme_path, "w") as readme_file:
         readme_file.writelines(updated_content)
 
-directory_path = "DSA"
+directory_path = "../../../DSA"
 update_readme(directory_path)
