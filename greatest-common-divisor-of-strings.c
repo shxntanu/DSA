@@ -12,12 +12,11 @@ char* gcdOfStrings(char* str1, char* str2) {
             b -= a;
     }
 
-    if (len1 < len2 && strncmp(str1, str2+ (len2 - len1), len1) != 0){
+    if (len1 < len2 && strncmp(str1, str2+ (len2 - len1), len1) != 0)
         return "";
-    }
-    if (len1 > len2 && strncmp(str1+ (len1 - len2), str2, len1) != 0){
+    
+    if (len1 > len2 && strncmp(str1+ (len1 - len2), str2, len1) != 0)
         return "";
-    }
 
     if (strncmp(str1, str2, a) != 0){
         return "";
