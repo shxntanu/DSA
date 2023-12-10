@@ -14,8 +14,8 @@ def update_readme(directory):
         if file_name == "README.md":
             continue
         
-        link_text,file_name = convert_text(file_name)
-        file_link = f"- [{file_name}](https://leetcode.com/problems/{link_text})\n"
+        link_text,filename = convert_text(file_name)
+        file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({file_name}))\n"
         file_links.append(file_link)
 
     with open(readme_path, "r") as readme_file:
@@ -27,7 +27,10 @@ def update_readme(directory):
     else:
         marker_index = len(readme_content)
 
-    updated_content = readme_content[:marker_index] + file_links + readme_content[marker_index:]
+    readme_file.close()
+
+    updated_content = ["## DSA\n\nCollection of DSA Problems from LeetCode and other sources (not as likely) and solved mostly in C.\n\nProblems:\n\n"] + file_links
+    print(updated_content)
 
     with open(readme_path, "w") as readme_file:
         readme_file.writelines(updated_content)
