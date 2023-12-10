@@ -25,6 +25,6 @@ jobs:
               run: |
                   git config --local user.email "actions@github.com"
                   git config --local user.name "GitHub Actions"
-                  git add DSA/README.md
+                  git add README.md
                   git commit -m "Update README with new file"
                   git push
