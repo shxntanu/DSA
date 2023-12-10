@@ -1,3 +1,7 @@
+/*
+    Link: https://leetcode.com/problems/greatest-common-divisor-of-strings
+*/
+
 char* gcdOfStrings(char* str1, char* str2) {
     int len1 = strlen(str1);
     int len2 = strlen(str2);
