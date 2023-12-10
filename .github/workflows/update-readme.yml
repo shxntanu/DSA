@@ -19,7 +19,7 @@ jobs:
             - name: Update README
               run: |
                   cd .github/workflows
-                  python update_readme.py
+                  python script.py
 
             - name: Commit and push changes
               run: |
