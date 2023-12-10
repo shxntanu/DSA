@@ -18,7 +18,8 @@ jobs:
 
             - name: Update README
               run: |
-                  python ./.github/workflows/update_readme.py
+                  cd DSA/.github/workflows
+                  python update_readme.py
 
             - name: Commit and push changes
               run: |
