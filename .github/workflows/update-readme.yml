@@ -2,7 +2,7 @@ name: Update README on File Change
 on:
     push:
         paths:
-            - "DSA/**"
+            - "**"
 
 jobs:
     update-readme:
