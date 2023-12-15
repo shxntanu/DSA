@@ -31,7 +31,9 @@ int** onesMinusZeros(int** grid, int gridSize, int* gridColSize, int* returnSize
             returnMatrix[row][col] = onesRow[row] + onesCol[col];
         }
     }
-
+ 
+    free(onesRow);  
+    free(onesCol);
     *returnSize = gridSize;
     return returnMatrix;
 }
