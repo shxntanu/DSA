@@ -5,6 +5,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 Problems:
 
 - Greatest Common Divisor Of Strings ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](greatest-common-divisor-of-strings.c))
+- Valid Anagram ([LeetCode](https://leetcode.com/problems/valid-anagram)) ([Solution](valid-anagram.c))
 - Special Positions In A Binary Matrix ([LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](special-positions-in-a-binary-matrix.c))
 - Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](destination-city.c))
 - Reverse Vowels Of A String ([LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)) ([Solution](reverse-vowels-of-a-string.c))
