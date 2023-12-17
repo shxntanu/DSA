@@ -14,4 +14,5 @@ Problems:
 - Merge Strings Alternatively ([LeetCode](https://leetcode.com/problems/merge-strings-alternatively)) ([Solution](merge-strings-alternatively.c))
 - Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](maximum-product-of-two-elements-in-an-array.c))
 - Difference Between Ones And Zeros In Row And Column ([LeetCode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)) ([Solution](difference-between-ones-and-zeros-in-row-and-column.c))
+- Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](design-a-food-rating-system.cpp))
 - Kids With The Greatest Number Of Candies ([LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](kids-with-the-greatest-number-of-candies.c))
