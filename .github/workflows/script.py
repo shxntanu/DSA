@@ -7,7 +7,7 @@ def convert_text(text):
 
 def update_readme(directory):
     readme_path = os.path.join(directory, "README.md")
-    files_and_folders = [f for f in os.listdir(directory)]
+    files_and_folders = [f for f in os.listdir(directory) if f not in ('.git', '.github')]
 
     folder_links = {}
     root_files = []
