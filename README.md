@@ -4,16 +4,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 Problems:
 
-📁 .git
-    - Shallow ([LeetCode](https://leetcode.com/problems/shallow)) ([Solution](.git/shallow))
-    - Config ([LeetCode](https://leetcode.com/problems/config)) ([Solution](.git/config))
-    - Index ([LeetCode](https://leetcode.com/problems/index)) ([Solution](.git/index))
-    - Fetch_head ([LeetCode](https://leetcode.com/problems/FETCH_HEAD)) ([Solution](.git/FETCH_HEAD))
-    - Description ([LeetCode](https://leetcode.com/problems/description)) ([Solution](.git/description))
-    - Head ([LeetCode](https://leetcode.com/problems/HEAD)) ([Solution](.git/HEAD))
 📁 notes
     - Qsort ([LeetCode](https://leetcode.com/problems/qsort)) ([Solution](notes/qsort.c))
-📁 .github
 📁 Root Directory
     - Greatest Common Divisor Of Strings ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](greatest-common-divisor-of-strings.c))
     - Valid Anagram ([LeetCode](https://leetcode.com/problems/valid-anagram)) ([Solution](valid-anagram.c))
