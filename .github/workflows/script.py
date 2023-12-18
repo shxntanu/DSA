@@ -23,18 +23,18 @@ def update_readme(directory):
     # Create folder and file links
     content = []
     for folder, files in folder_links.items():
-        content.append(f"📁 {folder}\n")
+        content.append(f"📁 {folder}\n\n")
         for file_name in files:
             link_text, filename = convert_text(file_name)
-            file_link = f"    - {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n"
+            file_link = f"    - {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n\n"
             content.append(file_link)
 
     # Append root files
     if root_files:
-        content.append("📁 Root Directory\n")
+        content.append("📁 Root Directory\n\n")
         for file_name in root_files:
             link_text, filename = convert_text(file_name)
-            file_link = f"    - {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({file_name}))\n"
+            file_link = f"    - {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({file_name}))\n\n"
             content.append(file_link)
 
     # Read existing README content
