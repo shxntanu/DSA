@@ -26,7 +26,7 @@ def update_readme(directory):
         content.append(f"📁 {folder}\n\n")
         for file_name in files:
             link_text, filename = convert_text(file_name)
-            file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n\n"
+            file_link = f"- {filename} ([Link]({os.path.join(folder, file_name)}))\n\n"
             content.append(file_link)
 
     # Append root files
