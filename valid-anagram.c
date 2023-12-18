@@ -2,7 +2,7 @@
   Link: https://leetcode.com/problems/valid-anagram
 */
 
-/int compareChars(const void* a, const void* b) {
+int compareChars(const void* a, const void* b) {
     return (*(char*)a - *(char*)b);
 }
 
