@@ -34,7 +34,7 @@ def update_readme(directory):
         content.append("📁 Root Directory\n\n")
         for file_name in root_files:
             link_text, filename = convert_text(file_name)
-            file_link = f"    - {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({file_name}))\n\n"
+            file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({file_name}))\n\n"
             content.append(file_link)
 
     # Read existing README content
