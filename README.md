@@ -4,10 +4,18 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 Problems:
 
+📁 .git
+📁 .github
 - Greatest Common Divisor Of Strings ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](greatest-common-divisor-of-strings.c))
 - Valid Anagram ([LeetCode](https://leetcode.com/problems/valid-anagram)) ([Solution](valid-anagram.c))
 - Special Positions In A Binary Matrix ([LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](special-positions-in-a-binary-matrix.c))
 - Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](destination-city.c))
+    - Shallow ([LeetCode](https://leetcode.com/problems/shallow)) ([Solution](.git/shallow))
+    - Config ([LeetCode](https://leetcode.com/problems/config)) ([Solution](.git/config))
+    - Index ([LeetCode](https://leetcode.com/problems/index)) ([Solution](.git/index))
+    - Fetch_head ([LeetCode](https://leetcode.com/problems/FETCH_HEAD)) ([Solution](.git/FETCH_HEAD))
+    - Description ([LeetCode](https://leetcode.com/problems/description)) ([Solution](.git/description))
+    - Head ([LeetCode](https://leetcode.com/problems/HEAD)) ([Solution](.git/HEAD))
 - Reverse Vowels Of A String ([LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)) ([Solution](reverse-vowels-of-a-string.c))
 - Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](element-appearing-more-than-25-in-sorted-array.c))
 - Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](transpose-matrix.c))
