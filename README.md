@@ -4,7 +4,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 notes
 
-- Qsort ([LeetCode](https://leetcode.com/problems/qsort)) ([Solution](notes/qsort.c))
+- Qsort ([Link](notes/qsort.c))
 
 📁 Problems
 
