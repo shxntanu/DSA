@@ -2,13 +2,11 @@
 
 Collection of DSA Problems from LeetCode and other sources (not as likely) and solved mostly in C.
 
-Problems:
-
 📁 notes
 
-    - Qsort ([LeetCode](https://leetcode.com/problems/qsort)) ([Solution](notes/qsort.c))
+- Qsort ([LeetCode](https://leetcode.com/problems/qsort)) ([Solution](notes/qsort.c))
 
-📁 Root Directory
+📁 Problems
 
 - Greatest Common Divisor Of Strings ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](greatest-common-divisor-of-strings.c))
 
