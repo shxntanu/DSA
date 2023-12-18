@@ -26,12 +26,12 @@ def update_readme(directory):
         content.append(f"📁 {folder}\n\n")
         for file_name in files:
             link_text, filename = convert_text(file_name)
-            file_link = f"    - {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n\n"
+            file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n\n"
             content.append(file_link)
 
     # Append root files
     if root_files:
-        content.append("📁 Root Directory\n\n")
+        content.append("📁 Problems\n\n")
         for file_name in root_files:
             link_text, filename = convert_text(file_name)
             file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({file_name}))\n\n"
@@ -50,7 +50,7 @@ def update_readme(directory):
     readme_file.close()
 
     # Combine existing content with updated content
-    updated_content = ["## DSA\n\nCollection of DSA Problems from LeetCode and other sources (not as likely) and solved mostly in C.\n\nProblems:\n\n"] + content
+    updated_content = ["## DSA\n\nCollection of DSA Problems from LeetCode and other sources (not as likely) and solved mostly in C.\n\n"] + content
     print(updated_content)
 
     # Write updated content to README file
