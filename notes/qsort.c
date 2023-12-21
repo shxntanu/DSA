@@ -2,14 +2,12 @@
 #include <string.h>
 #include <stdlib.h>
 
-int compare(const void* numA, const void* numB) {
-    const int* num1 = (const int*)numA;
-    const int* num2 = (const int*)numB;
-    if (*num1 > *num2) return 1;
-    else {
-        if (*num1 == *num2) return 0;
-        else return -1;
-    }
+int max(int a, int b) {
+    return a>b?a:b;
+}
+
+int compare(const void* a, const void* b) {
+    return ( *(int*)a - *(int*)b);
 }
 
 int main() {
