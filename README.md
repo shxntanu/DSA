@@ -38,3 +38,5 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Kids With The Greatest Number Of Candies ([LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](kids-with-the-greatest-number-of-candies.c))
 
+- Widest Vertical Area Between Two Points Containing No Points ([LeetCode](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)) ([Solution](widest-vertical-area-between-two-points-containing-no-points.c))
+
