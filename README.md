@@ -22,6 +22,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](element-appearing-more-than-25-in-sorted-array.c))
 
+- Redistribute Characters To Make All Strings Equal ([LeetCode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)) ([Solution](redistribute-characters-to-make-all-strings-equal.c))
+
 - Maximum Score After Splitting A String ([LeetCode](https://leetcode.com/problems/maximum-score-after-splitting-a-string)) ([Solution](maximum-score-after-splitting-a-string.c))
 
 - Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](transpose-matrix.c))
