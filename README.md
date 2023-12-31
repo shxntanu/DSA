@@ -18,6 +18,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](buy-two-chocolates.c))
 
+- Largest Substring Between Two Equal Characters ([LeetCode](https://leetcode.com/problems/largest-substring-between-two-equal-characters)) ([Solution](largest-substring-between-two-equal-characters.cpp))
+
 - Reverse Vowels Of A String ([LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)) ([Solution](reverse-vowels-of-a-string.c))
 
 - Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](element-appearing-more-than-25-in-sorted-array.c))
