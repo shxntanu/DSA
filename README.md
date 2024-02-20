@@ -8,10 +8,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Problems
 
-- Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](buy-two-chocolates.c))
-
-- Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](design-a-food-rating-system.cpp))
-
 - Maximum Score After Splitting A String ([LeetCode](https://leetcode.com/problems/maximum-score-after-splitting-a-string)) ([Solution](maximum-score-after-splitting-a-string.c))
 
 - Reverse Vowels Of A String ([LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)) ([Solution](reverse-vowels-of-a-string.c))
@@ -39,8 +35,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Image Smoother ([LeetCode](https://leetcode.com/problems/image-smoother)) ([Solution](image-smoother.py))
 
 - Find First Palindromic String In The Array ([LeetCode](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)) ([Solution](find-first-palindromic-string-in-the-array.c))
-
-- Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](destination-city.c))
 
 - Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
 
