@@ -36,8 +36,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Special Positions In A Binary Matrix ([LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](special-positions-in-a-binary-matrix.c))
 
-- Image Smoother ([LeetCode](https://leetcode.com/problems/image-smoother)) ([Solution](image-smoother.py))
-
 - Find First Palindromic String In The Array ([LeetCode](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)) ([Solution](find-first-palindromic-string-in-the-array.c))
 
 - Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](destination-city.c))
