@@ -48,3 +48,5 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Greatest Common Divisor Of Strings ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](greatest-common-divisor-of-strings.c))
 
+- Missing Number ([LeetCode](https://leetcode.com/problems/missing-number)) ([Solution](missing-number.c))
+
