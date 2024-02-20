@@ -18,8 +18,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Valid Anagram ([LeetCode](https://leetcode.com/problems/valid-anagram)) ([Solution](valid-anagram.c))
 
-- Largest Substring Between Two Equal Characters ([LeetCode](https://leetcode.com/problems/largest-substring-between-two-equal-characters)) ([Solution](largest-substring-between-two-equal-characters.cpp))
-
 - Redistribute Characters To Make All Strings Equal ([LeetCode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)) ([Solution](redistribute-characters-to-make-all-strings-equal.c))
 
 - Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](transpose-matrix.c))
@@ -31,8 +29,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Image Smoother ([LeetCode](https://leetcode.com/problems/image-smoother)) ([Solution](image-smoother.py))
 
 - Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
-
-- Kids With The Greatest Number Of Candies ([LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](kids-with-the-greatest-number-of-candies.c))
 
 - Missing Number ([LeetCode](https://leetcode.com/problems/missing-number)) ([Solution](missing-number.c))
 
