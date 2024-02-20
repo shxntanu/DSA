@@ -10,3 +10,5 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Image Smoother ([LeetCode](https://leetcode.com/problems/image-smoother)) ([Solution](image-smoother.py))
 
+- Spiral Matrix ([LeetCode](https://leetcode.com/problems/spiral-matrix)) ([Solution](spiral-matrix.py))
+
