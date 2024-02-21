@@ -1,17 +1,12 @@
-# Use this branch as the base branch to create future branches
-
 <div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9keDk1cTV4aDE3YWZzOTJ1dTdxdmgxbzRnYmN2MzIwcXdlenUyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" height="268" />
 
-# 🧩 DSA Problems from LeetCode
+# 🧩 SQL Problems from LeetCode
 
-Collection of DSA Problems from LeetCode and other sources (not as likely) and solved in C/C++, [Java](https://github.com/shxntanu/DSA/tree/Java) and [Python](https://github.com/shxntanu/DSA/tree/Python).
+Collection of SQL 50 Problems from LeetCode.
 
-![Static Badge](https://img.shields.io/badge/C%2FC++-blue)
-![Static Badge](https://img.shields.io/badge/Java-blue)
-![Static Badge](https://img.shields.io/badge/Python-blue) <br/>
-![Static Badge](https://img.shields.io/badge/LeetCode%20Daily-red)
-![Static Badge](https://img.shields.io/badge/LeetCode%2075-red)
+![Static Badge](https://img.shields.io/badge/SQL-blue) <br/>
+![Static Badge](https://img.shields.io/badge/SQL%2050-red)
 
 </div>
 
