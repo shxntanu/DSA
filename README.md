@@ -3,7 +3,7 @@
 
 # 🧩 DSA Problems from LeetCode
 
-Collection of DSA Problems from LeetCode and other sources (not as likely) and solved in C/C++, [Java](https://github.com/shxntanu/DSA/tree/java) and [Python](https://github.com/shxntanu/DSA/tree/Python).
+Collection of DSA Problems from LeetCode and other sources (not as likely) and solved in C/C++, [Java](https://github.com/shxntanu/DSA/tree/Java) and [Python](https://github.com/shxntanu/DSA/tree/Python).
 
 ![Static Badge](https://img.shields.io/badge/C%2FC++-blue)
 ![Static Badge](https://img.shields.io/badge/Java-blue)
