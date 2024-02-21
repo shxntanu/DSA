@@ -19,3 +19,7 @@ Collection of SQL 50 Problems from LeetCode.
 
 ## Notes and Questions
 
+📁 Problems
+
+- Recyclable And Low Fat Products ([LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products)) ([Solution](recyclable-and-low-fat-products.sql))
+
