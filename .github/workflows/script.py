@@ -50,7 +50,8 @@ def update_readme(directory):
     readme_file.close()
 
     # Combine existing content with updated content
-    updated_content = ["## DSA\n\nCollection of DSA Problems from LeetCode and other sources (not as likely) and solved mostly in C.\n\n"] + content
+    existing_readme = open("README.md", 'r')
+    updated_content = existing_readme.read() + content
     print(updated_content)
 
     # Write updated content to README file
