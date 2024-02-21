@@ -50,9 +50,8 @@ def update_readme(directory):
     readme_file.close()
 
     # Combine existing content with updated content
-    existing_readme_file = open("README.md", 'r')
-    existing_readme_content = existing_readme_file.read()
-    updated_content = existing_readme_content + content
+    existing_readme = open("README.md", 'r')
+    updated_content = [existing_readme.read()] + content
     print(updated_content)
 
     # Write updated content to README file
