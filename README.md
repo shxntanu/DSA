@@ -23,5 +23,7 @@ Collection of SQL 50 Problems from LeetCode.
 
 - Recyclable And Low Fat Products ([LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products)) ([Solution](recyclable-and-low-fat-products.sql))
 
+- Big Countries ([LeetCode](https://leetcode.com/problems/big-countries)) ([Solution](big-countries.sql))
+
 - Find Customer Referee ([LeetCode](https://leetcode.com/problems/find-customer-referee)) ([Solution](find-customer-referee.sql))
 
