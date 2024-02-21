@@ -1,7 +1,7 @@
 
 // Question : https://www.codingninjas.com/studio/problems/count-total-set-bits_784
 
-public count_total_set_bits {
+class count_total_set_bits {
         public static int countSetBits(int n) {
             int count = 0;
             for (int i = 1; i <= n; i++) {
@@ -28,7 +28,7 @@ public count_total_set_bits {
 
    where 'N' is the number till which we have to count set bits..
 */
-public class Solution{
+ class Solution{
     public static int countSetBits(int n) {
         // We have 'd' which is the size of repeating window.
         // We are using 'x' to run the loop Log(N) times which is equal to the number of bits in its binary representation.
