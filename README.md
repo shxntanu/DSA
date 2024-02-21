@@ -25,5 +25,7 @@ Collection of SQL 50 Problems from LeetCode.
 
 - Big Countries ([LeetCode](https://leetcode.com/problems/big-countries)) ([Solution](big-countries.sql))
 
+- Article Views I ([LeetCode](https://leetcode.com/problems/article-views-i)) ([Solution](article-views-i.sql))
+
 - Find Customer Referee ([LeetCode](https://leetcode.com/problems/find-customer-referee)) ([Solution](find-customer-referee.sql))
 
