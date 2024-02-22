@@ -46,6 +46,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Largest Substring Between Two Equal Characters ([LeetCode](https://leetcode.com/problems/largest-substring-between-two-equal-characters)) ([Solution](largest-substring-between-two-equal-characters.cpp))
 
+- Find The Town Judge ([LeetCode](https://leetcode.com/problems/find-the-town-judge)) ([Solution](find-the-town-judge.c))
+
 - Redistribute Characters To Make All Strings Equal ([LeetCode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)) ([Solution](redistribute-characters-to-make-all-strings-equal.c))
 
 - Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](transpose-matrix.c))
