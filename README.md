@@ -28,6 +28,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Problems
 
+- Cheapest Flights Within K Stops ([LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](cheapest-flights-within-k-stops.c))
+
 - Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](buy-two-chocolates.c))
 
 - Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](design-a-food-rating-system.cpp))
