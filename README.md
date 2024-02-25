@@ -74,5 +74,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Bitwise And Of Numbers Range ([LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range)) ([Solution](bitwise-and-of-numbers-range.cpp))
 
+- Greatest Common Divisor Traversal ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-traversal)) ([Solution](greatest-common-divisor-traversal.cpp))
+
 - Missing Number ([LeetCode](https://leetcode.com/problems/missing-number)) ([Solution](missing-number.c))
 
