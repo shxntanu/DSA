@@ -26,6 +26,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Qsort ([Link](notes/qsort.c))
 
+- Binary Tree Preorder ([Link](notes/binary-tree-preorder.cpp))
+
 📁 Problems
 
 - Cheapest Flights Within K Stops ([LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](cheapest-flights-within-k-stops.c))
