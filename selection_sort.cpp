@@ -21,7 +21,7 @@ Explanation:
     After doing that for all the elements of the array, we get the sorted array.
 */
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 void swapNumbers(int *a, int *b)
@@ -52,10 +52,37 @@ void selectionSort(int arr[], int n)
     }
 }
 
+void selectionSortRecursive(vector<int> &arr, int index)
+{
+    int n = arr.size();
+    if (index == n - 1)
+    {
+        return;
+    }
+    int min_index = index;
+    for (int j = index + 1; j < n; j++)
+    {
+        if (arr[j] < arr[min_index])
+        {
+            min_index = j;
+        }
+    }
+
+    if (min_index != index)
+    {
+        swapNumbers(&arr[index], &arr[min_index]);
+    }
+    selectionSortRecursive(arr, index + 1);
+}
+
 int main()
 {
-    int arr[5] = {5, 2, 9, 1, 7};
-    selectionSort(arr, 5);
+    // int arr[5] = {5, 2, 9, 1, 7};
+    // selectionSort(arr, 5);
+
+    vector<int> arr = {5, 2, 9, 3, 7};
+
+    selectionSortRecursive(arr, 0);
 
     for (int i = 0; i < 5; i++)
     {
