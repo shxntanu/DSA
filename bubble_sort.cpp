@@ -7,7 +7,7 @@ Explanation:
 --> If the element to the left is greater than the element to the right(in case of sorting in ascending order),
     swap them and continue the same iteration for the rest of the elements
 --> At the end of each iteration, 1 element gets sorted(the largest element in the then considered array)
---> The array size to be considerd for sorting then becomes 1 element less than the array size in the previous iteration
+--> The array size to be considered for sorting then becomes 1 less than the array size in the previous iteration
 
 --------------------------------------------------------------------
 2.Time Complexity:
