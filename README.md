@@ -26,6 +26,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Find The Town Judge ([Link](graph/find-the-town-judge.c))
 
+- Greatest Common Divisor Traversal ([Link](graph/greatest-common-divisor-traversal.cpp))
+
 📁 binary-tree
 
 - Find Bottom Left Tree Value ([Link](binary-tree/find-bottom-left-tree-value.cpp))
@@ -87,8 +89,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Greatest Common Divisor Of Strings ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](greatest-common-divisor-of-strings.c))
 
 - Bitwise And Of Numbers Range ([LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range)) ([Solution](bitwise-and-of-numbers-range.cpp))
-
-- Greatest Common Divisor Traversal ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-traversal)) ([Solution](greatest-common-divisor-traversal.cpp))
 
 - Missing Number ([LeetCode](https://leetcode.com/problems/missing-number)) ([Solution](missing-number.c))
 
