@@ -24,6 +24,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 binary-tree
 
+- Find Bottom Left Tree Value ([Link](binary-tree/find-bottom-left-tree-value.cpp))
+
 - Even Odd Tree ([Link](binary-tree/even-odd-tree.cpp))
 
 - Same Tree ([Link](binary-tree/same-tree.cpp))
@@ -37,8 +39,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Binary Tree Preorder ([Link](notes/binary-tree-preorder.cpp))
 
 📁 Problems
-
-- Find Bottom Left Tree Value ([LeetCode](https://leetcode.com/problems/find-bottom-left-tree-value)) ([Solution](find-bottom-left-tree-value.cpp))
 
 - Cheapest Flights Within K Stops ([LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](cheapest-flights-within-k-stops.c))
 
