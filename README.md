@@ -26,6 +26,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Even Odd Tree ([Link](binary-tree/even-odd-tree.cpp))
 
+- Diameter Of Binary Tree ([Link](binary-tree/diameter-of-binary-tree.c))
+
 📁 notes
 
 - Qsort ([Link](notes/qsort.c))
@@ -59,8 +61,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Valid Anagram ([LeetCode](https://leetcode.com/problems/valid-anagram)) ([Solution](valid-anagram.c))
 
 - Largest Substring Between Two Equal Characters ([LeetCode](https://leetcode.com/problems/largest-substring-between-two-equal-characters)) ([Solution](largest-substring-between-two-equal-characters.cpp))
-
-- Diameter Of Binary Tree ([LeetCode](https://leetcode.com/problems/diameter-of-binary-tree)) ([Solution](diameter-of-binary-tree.c))
 
 - Find The Town Judge ([LeetCode](https://leetcode.com/problems/find-the-town-judge)) ([Solution](find-the-town-judge.c))
 
