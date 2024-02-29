@@ -24,19 +24,19 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 graph
 
-- Find The Town Judge ([Link](graph/find-the-town-judge.c))
+- Find The Town Judge ([LeetCode](https://leetcode.com/problems/Find The Town Judge)) ([Solution](graph/find-the-town-judge.c))
 
-- Greatest Common Divisor Traversal ([Link](graph/greatest-common-divisor-traversal.cpp))
+- Greatest Common Divisor Traversal ([LeetCode](https://leetcode.com/problems/Greatest Common Divisor Traversal)) ([Solution](graph/greatest-common-divisor-traversal.cpp))
 
 📁 binary-tree
 
-- Find Bottom Left Tree Value ([Link](binary-tree/find-bottom-left-tree-value.cpp))
+- Find Bottom Left Tree Value ([LeetCode](https://leetcode.com/problems/Find Bottom Left Tree Value)) ([Solution](binary-tree/find-bottom-left-tree-value.cpp))
 
-- Even Odd Tree ([Link](binary-tree/even-odd-tree.cpp))
+- Even Odd Tree ([LeetCode](https://leetcode.com/problems/Even Odd Tree)) ([Solution](binary-tree/even-odd-tree.cpp))
 
-- Same Tree ([Link](binary-tree/same-tree.cpp))
+- Same Tree ([LeetCode](https://leetcode.com/problems/Same Tree)) ([Solution](binary-tree/same-tree.cpp))
 
-- Diameter Of Binary Tree ([Link](binary-tree/diameter-of-binary-tree.c))
+- Diameter Of Binary Tree ([LeetCode](https://leetcode.com/problems/Diameter Of Binary Tree)) ([Solution](binary-tree/diameter-of-binary-tree.c))
 
 📁 notes
 
