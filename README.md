@@ -22,6 +22,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 ## Notes and Questions
 
+📁 binary-tree
+
+- Even Odd Tree ([Link](binary-tree/even-odd-tree.cpp))
+
 📁 notes
 
 - Qsort ([Link](notes/qsort.c))
@@ -31,8 +35,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 📁 Problems
 
 - Find Bottom Left Tree Value ([LeetCode](https://leetcode.com/problems/find-bottom-left-tree-value)) ([Solution](find-bottom-left-tree-value.cpp))
-
-- Even Odd Tree ([LeetCode](https://leetcode.com/problems/even-odd-tree)) ([Solution](even-odd-tree.cpp))
 
 - Cheapest Flights Within K Stops ([LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](cheapest-flights-within-k-stops.c))
 
