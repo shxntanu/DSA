@@ -26,6 +26,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Even Odd Tree ([Link](binary-tree/even-odd-tree.cpp))
 
+- Same Tree ([Link](binary-tree/same-tree.cpp))
+
 - Diameter Of Binary Tree ([Link](binary-tree/diameter-of-binary-tree.c))
 
 📁 notes
@@ -43,8 +45,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](buy-two-chocolates.c))
 
 - Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](design-a-food-rating-system.cpp))
-
-- Same Tree ([LeetCode](https://leetcode.com/problems/same-tree)) ([Solution](same-tree.cpp))
 
 - Maximum Score After Splitting A String ([LeetCode](https://leetcode.com/problems/maximum-score-after-splitting-a-string)) ([Solution](maximum-score-after-splitting-a-string.c))
 
