@@ -22,6 +22,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 ## Notes and Questions
 
+📁 graph
+
+- Find The Town Judge ([Link](graph/find-the-town-judge.c))
+
 📁 binary-tree
 
 - Find Bottom Left Tree Value ([Link](binary-tree/find-bottom-left-tree-value.cpp))
@@ -61,8 +65,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Valid Anagram ([LeetCode](https://leetcode.com/problems/valid-anagram)) ([Solution](valid-anagram.c))
 
 - Largest Substring Between Two Equal Characters ([LeetCode](https://leetcode.com/problems/largest-substring-between-two-equal-characters)) ([Solution](largest-substring-between-two-equal-characters.cpp))
-
-- Find The Town Judge ([LeetCode](https://leetcode.com/problems/find-the-town-judge)) ([Solution](find-the-town-judge.c))
 
 - Redistribute Characters To Make All Strings Equal ([LeetCode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)) ([Solution](redistribute-characters-to-make-all-strings-equal.c))
 
