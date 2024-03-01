@@ -24,6 +24,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 graph
 
+- Find All People With Secret ([LeetCode](https://leetcode.com/problems/find-all-people-with-secret)) ([Solution](graph/find-all-people-with-secret.c))
+
 - Find The Town Judge ([LeetCode](https://leetcode.com/problems/find-the-town-judge)) ([Solution](graph/find-the-town-judge.c))
 
 - Greatest Common Divisor Traversal ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-traversal)) ([Solution](graph/greatest-common-divisor-traversal.cpp))
@@ -63,8 +65,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Reverse Vowels Of A String ([LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)) ([Solution](reverse-vowels-of-a-string.c))
 
 - Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](maximum-product-of-two-elements-in-an-array.c))
-
-- Find All People With Secret ([LeetCode](https://leetcode.com/problems/find-all-people-with-secret)) ([Solution](find-all-people-with-secret.c))
 
 - Widest Vertical Area Between Two Points Containing No Points ([LeetCode](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)) ([Solution](widest-vertical-area-between-two-points-containing-no-points.c))
 
