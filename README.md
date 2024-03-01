@@ -48,6 +48,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Maximum Odd Binary Number ([LeetCode](https://leetcode.com/problems/maximum-odd-binary-number)) ([Solution](string-manipulation/maximum-odd-binary-number.c))
 
+- Merge Strings Alternatively ([LeetCode](https://leetcode.com/problems/merge-strings-alternatively)) ([Solution](string-manipulation/merge-strings-alternatively.c))
+
 📁 Problems
 
 - Cheapest Flights Within K Stops ([LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](cheapest-flights-within-k-stops.c))
@@ -77,8 +79,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](transpose-matrix.c))
 
 - Difference Between Ones And Zeros In Row And Column ([LeetCode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)) ([Solution](difference-between-ones-and-zeros-in-row-and-column.c))
-
-- Merge Strings Alternatively ([LeetCode](https://leetcode.com/problems/merge-strings-alternatively)) ([Solution](merge-strings-alternatively.c))
 
 - Special Positions In A Binary Matrix ([LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](special-positions-in-a-binary-matrix.c))
 
