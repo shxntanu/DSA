@@ -52,6 +52,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Maximum Score After Splitting A String ([LeetCode](https://leetcode.com/problems/maximum-score-after-splitting-a-string)) ([Solution](string-manipulation/maximum-score-after-splitting-a-string.c))
 
+- Reverse Vowels Of A String ([LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)) ([Solution](string-manipulation/reverse-vowels-of-a-string.c))
+
 - Merge Strings Alternatively ([LeetCode](https://leetcode.com/problems/merge-strings-alternatively)) ([Solution](string-manipulation/merge-strings-alternatively.c))
 
 - Find First Palindromic String In The Array ([LeetCode](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)) ([Solution](string-manipulation/find-first-palindromic-string-in-the-array.c))
@@ -65,8 +67,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](buy-two-chocolates.c))
 
 - Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](design-a-food-rating-system.cpp))
-
-- Reverse Vowels Of A String ([LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)) ([Solution](reverse-vowels-of-a-string.c))
 
 - Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](maximum-product-of-two-elements-in-an-array.c))
 
