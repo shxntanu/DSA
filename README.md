@@ -46,6 +46,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Binary Tree Preorder ([Link](notes/binary-tree-preorder.cpp))
 
+📁 bit-manipulation
+
+- Bitwise And Of Numbers Range ([LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range)) ([Solution](bit-manipulation/bitwise-and-of-numbers-range.cpp))
+
 📁 string-manipulation
 
 - Maximum Odd Binary Number ([LeetCode](https://leetcode.com/problems/maximum-odd-binary-number)) ([Solution](string-manipulation/maximum-odd-binary-number.c))
@@ -93,8 +97,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
 
 - Kids With The Greatest Number Of Candies ([LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](kids-with-the-greatest-number-of-candies.c))
-
-- Bitwise And Of Numbers Range ([LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range)) ([Solution](bitwise-and-of-numbers-range.cpp))
 
 - Missing Number ([LeetCode](https://leetcode.com/problems/missing-number)) ([Solution](missing-number.c))
 
