@@ -86,6 +86,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Special Positions In A Binary Matrix ([LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](special-positions-in-a-binary-matrix.c))
 
+- Squares Of A Sorted Array ([LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array)) ([Solution](squares-of-a-sorted-array.c))
+
 - Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](destination-city.c))
 
 - Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
