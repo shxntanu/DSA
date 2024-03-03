@@ -58,6 +58,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Remove Nth Node From End Of List ([LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list)) ([Solution](linked-list/remove-nth-node-from-end-of-list.c))
 
+📁 matrix
+
+- Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](matrix/transpose-matrix.c))
+
 📁 string-manipulation
 
 - Maximum Odd Binary Number ([LeetCode](https://leetcode.com/problems/maximum-odd-binary-number)) ([Solution](string-manipulation/maximum-odd-binary-number.c))
@@ -89,8 +93,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Widest Vertical Area Between Two Points Containing No Points ([LeetCode](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)) ([Solution](widest-vertical-area-between-two-points-containing-no-points.c))
 
 - Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](element-appearing-more-than-25-in-sorted-array.c))
-
-- Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](transpose-matrix.c))
 
 - Difference Between Ones And Zeros In Row And Column ([LeetCode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)) ([Solution](difference-between-ones-and-zeros-in-row-and-column.c))
 
