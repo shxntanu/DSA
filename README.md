@@ -50,6 +50,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Bitwise And Of Numbers Range ([LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range)) ([Solution](bit-manipulation/bitwise-and-of-numbers-range.cpp))
 
+📁 linked-list
+
+- Remove Nth Node From End Of List ([LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list)) ([Solution](linked-list/remove-nth-node-from-end-of-list.c))
+
 📁 string-manipulation
 
 - Maximum Odd Binary Number ([LeetCode](https://leetcode.com/problems/maximum-odd-binary-number)) ([Solution](string-manipulation/maximum-odd-binary-number.c))
@@ -93,8 +97,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Squares Of A Sorted Array ([LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array)) ([Solution](squares-of-a-sorted-array.c))
 
 - Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](destination-city.c))
-
-- Remove Nth Node From End Of List ([LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list)) ([Solution](remove-nth-node-from-end-of-list.c))
 
 - Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
 
