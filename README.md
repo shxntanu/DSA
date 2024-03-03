@@ -92,6 +92,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
 
+- Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](array/maximum-product-of-two-elements-in-an-array.c))
+
 - Widest Vertical Area Between Two Points Containing No Points ([LeetCode](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)) ([Solution](array/widest-vertical-area-between-two-points-containing-no-points.c))
 
 - Squares Of A Sorted Array ([LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array)) ([Solution](array/squares-of-a-sorted-array.c))
@@ -99,8 +101,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](array/destination-city.c))
 
 📁 Problems
-
-- Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](maximum-product-of-two-elements-in-an-array.c))
 
 - Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](element-appearing-more-than-25-in-sorted-array.c))
 
