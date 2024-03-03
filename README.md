@@ -88,11 +88,11 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 array
 
+- Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
+
 - Squares Of A Sorted Array ([LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array)) ([Solution](array/squares-of-a-sorted-array.c))
 
 📁 Problems
-
-- Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](buy-two-chocolates.c))
 
 - Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](maximum-product-of-two-elements-in-an-array.c))
 
