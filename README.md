@@ -66,6 +66,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](matrix/transpose-matrix.c))
 
+- Special Positions In A Binary Matrix ([LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](matrix/special-positions-in-a-binary-matrix.c))
+
 📁 string-manipulation
 
 - Maximum Odd Binary Number ([LeetCode](https://leetcode.com/problems/maximum-odd-binary-number)) ([Solution](string-manipulation/maximum-odd-binary-number.c))
@@ -103,8 +105,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](element-appearing-more-than-25-in-sorted-array.c))
 
 - Difference Between Ones And Zeros In Row And Column ([LeetCode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)) ([Solution](difference-between-ones-and-zeros-in-row-and-column.c))
-
-- Special Positions In A Binary Matrix ([LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](special-positions-in-a-binary-matrix.c))
 
 - Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
 
