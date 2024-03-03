@@ -40,6 +40,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Diameter Of Binary Tree ([LeetCode](https://leetcode.com/problems/diameter-of-binary-tree)) ([Solution](binary-tree/diameter-of-binary-tree.c))
 
+📁 OOP
+
+- Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](OOP/design-a-food-rating-system.cpp))
+
 📁 notes
 
 - Qsort ([Link](notes/qsort.c))
@@ -77,8 +81,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Cheapest Flights Within K Stops ([LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](cheapest-flights-within-k-stops.c))
 
 - Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](buy-two-chocolates.c))
-
-- Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](design-a-food-rating-system.cpp))
 
 - Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](maximum-product-of-two-elements-in-an-array.c))
 
