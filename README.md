@@ -66,6 +66,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Reverse Vowels Of A String ([LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string)) ([Solution](string-manipulation/reverse-vowels-of-a-string.c))
 
+- Valid Anagram ([LeetCode](https://leetcode.com/problems/valid-anagram)) ([Solution](string-manipulation/valid-anagram.c))
+
 - Largest Substring Between Two Equal Characters ([LeetCode](https://leetcode.com/problems/largest-substring-between-two-equal-characters)) ([Solution](string-manipulation/largest-substring-between-two-equal-characters.cpp))
 
 - Redistribute Characters To Make All Strings Equal ([LeetCode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)) ([Solution](string-manipulation/redistribute-characters-to-make-all-strings-equal.c))
@@ -87,8 +89,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Widest Vertical Area Between Two Points Containing No Points ([LeetCode](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)) ([Solution](widest-vertical-area-between-two-points-containing-no-points.c))
 
 - Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](element-appearing-more-than-25-in-sorted-array.c))
-
-- Valid Anagram ([LeetCode](https://leetcode.com/problems/valid-anagram)) ([Solution](valid-anagram.c))
 
 - Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](transpose-matrix.c))
 
