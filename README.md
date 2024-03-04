@@ -40,6 +40,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Diameter Of Binary Tree ([LeetCode](https://leetcode.com/problems/diameter-of-binary-tree)) ([Solution](binary-tree/diameter-of-binary-tree.c))
 
+📁 two-pointers
+
+- Bag Of Tokens ([LeetCode](https://leetcode.com/problems/bag-of-tokens)) ([Solution](two-pointers/bag-of-tokens.cpp))
+
 📁 OOP
 
 - Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](OOP/design-a-food-rating-system.cpp))
