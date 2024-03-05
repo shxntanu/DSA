@@ -106,6 +106,8 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](array/element-appearing-more-than-25-in-sorted-array.c))
 
+- Lemonade Change ([LeetCode](https://leetcode.com/problems/lemonade-change)) ([Solution](array/lemonade-change.c))
+
 - Squares Of A Sorted Array ([LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array)) ([Solution](array/squares-of-a-sorted-array.c))
 
 - Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](array/destination-city.c))
