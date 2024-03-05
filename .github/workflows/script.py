@@ -29,12 +29,12 @@ def update_readme(directory):
             if folder == 'notes': 
                 file_link = f"- {filename} ([Link]({os.path.join(folder, file_name)}))\n\n"
             else:
-                file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n\n"
+                file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n"
             content.append(file_link)
 
     # Append root files
     if root_files:
-        content.append("📁 Problems\n\n")
+        content.append("📁 Miscellaneous\n\n")
         for file_name in root_files:
             link_text, filename = convert_text(file_name)
             file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({file_name}))\n\n"
