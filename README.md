@@ -23,11 +23,20 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 ## Notes and Questions
 
 
-📁 graph
+📁 OOP
 
-- Find All People With Secret ([LeetCode](https://leetcode.com/problems/find-all-people-with-secret)) ([Solution](graph/find-all-people-with-secret.c))
-- Find The Town Judge ([LeetCode](https://leetcode.com/problems/find-the-town-judge)) ([Solution](graph/find-the-town-judge.c))
-- Greatest Common Divisor Traversal ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-traversal)) ([Solution](graph/greatest-common-divisor-traversal.cpp))
+- Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](OOP/design-a-food-rating-system.cpp))
+
+📁 array
+
+- Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
+- Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](array/maximum-product-of-two-elements-in-an-array.c))
+- Widest Vertical Area Between Two Points Containing No Points ([LeetCode](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)) ([Solution](array/widest-vertical-area-between-two-points-containing-no-points.c))
+- Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](array/element-appearing-more-than-25-in-sorted-array.c))
+- Lemonade Change ([LeetCode](https://leetcode.com/problems/lemonade-change)) ([Solution](array/lemonade-change.c))
+- Squares Of A Sorted Array ([LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array)) ([Solution](array/squares-of-a-sorted-array.c))
+- Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](array/destination-city.c))
+- Kids With The Greatest Number Of Candies ([LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](array/kids-with-the-greatest-number-of-candies.c))
 
 📁 binary-tree
 
@@ -36,14 +45,29 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Same Tree ([LeetCode](https://leetcode.com/problems/same-tree)) ([Solution](binary-tree/same-tree.cpp))
 - Diameter Of Binary Tree ([LeetCode](https://leetcode.com/problems/diameter-of-binary-tree)) ([Solution](binary-tree/diameter-of-binary-tree.c))
 
-📁 two-pointers
+📁 bit-manipulation
 
-- Bag Of Tokens ([LeetCode](https://leetcode.com/problems/bag-of-tokens)) ([Solution](two-pointers/bag-of-tokens.cpp))
-- Minimum Length Of String After Deleting Similar Ends ([LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
+- Bitwise And Of Numbers Range ([LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range)) ([Solution](bit-manipulation/bitwise-and-of-numbers-range.cpp))
 
-📁 OOP
+📁 dynamic-programming
 
-- Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](OOP/design-a-food-rating-system.cpp))
+- Cheapest Flights Within K Stops ([LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](dynamic-programming/cheapest-flights-within-k-stops.c))
+
+📁 graph
+
+- Find All People With Secret ([LeetCode](https://leetcode.com/problems/find-all-people-with-secret)) ([Solution](graph/find-all-people-with-secret.c))
+- Find The Town Judge ([LeetCode](https://leetcode.com/problems/find-the-town-judge)) ([Solution](graph/find-the-town-judge.c))
+- Greatest Common Divisor Traversal ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-traversal)) ([Solution](graph/greatest-common-divisor-traversal.cpp))
+
+📁 linked-list
+
+- Remove Nth Node From End Of List ([LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list)) ([Solution](linked-list/remove-nth-node-from-end-of-list.c))
+
+📁 matrix
+
+- Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](matrix/transpose-matrix.c))
+- Difference Between Ones And Zeros In Row And Column ([LeetCode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)) ([Solution](matrix/difference-between-ones-and-zeros-in-row-and-column.c))
+- Special Positions In A Binary Matrix ([LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](matrix/special-positions-in-a-binary-matrix.c))
 
 📁 notes
 
@@ -51,24 +75,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Binary Tree Preorder ([Link](notes/binary-tree-preorder.cpp))
 
-
-📁 bit-manipulation
-
-- Bitwise And Of Numbers Range ([LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range)) ([Solution](bit-manipulation/bitwise-and-of-numbers-range.cpp))
-
-📁 linked-list
-
-- Remove Nth Node From End Of List ([LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list)) ([Solution](linked-list/remove-nth-node-from-end-of-list.c))
-
-📁 dynamic-programming
-
-- Cheapest Flights Within K Stops ([LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](dynamic-programming/cheapest-flights-within-k-stops.c))
-
-📁 matrix
-
-- Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](matrix/transpose-matrix.c))
-- Difference Between Ones And Zeros In Row And Column ([LeetCode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)) ([Solution](matrix/difference-between-ones-and-zeros-in-row-and-column.c))
-- Special Positions In A Binary Matrix ([LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](matrix/special-positions-in-a-binary-matrix.c))
 
 📁 string-manipulation
 
@@ -82,16 +88,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Find First Palindromic String In The Array ([LeetCode](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)) ([Solution](string-manipulation/find-first-palindromic-string-in-the-array.c))
 - Greatest Common Divisor Of Strings ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](string-manipulation/greatest-common-divisor-of-strings.c))
 
-📁 array
+📁 two-pointers
 
-- Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
-- Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](array/maximum-product-of-two-elements-in-an-array.c))
-- Widest Vertical Area Between Two Points Containing No Points ([LeetCode](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)) ([Solution](array/widest-vertical-area-between-two-points-containing-no-points.c))
-- Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](array/element-appearing-more-than-25-in-sorted-array.c))
-- Lemonade Change ([LeetCode](https://leetcode.com/problems/lemonade-change)) ([Solution](array/lemonade-change.c))
-- Squares Of A Sorted Array ([LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array)) ([Solution](array/squares-of-a-sorted-array.c))
-- Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](array/destination-city.c))
-- Kids With The Greatest Number Of Candies ([LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](array/kids-with-the-greatest-number-of-candies.c))
+- Bag Of Tokens ([LeetCode](https://leetcode.com/problems/bag-of-tokens)) ([Solution](two-pointers/bag-of-tokens.cpp))
+- Minimum Length Of String After Deleting Similar Ends ([LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
 
 📁 Miscellaneous
 
