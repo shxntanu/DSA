@@ -116,3 +116,5 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Missing Number ([LeetCode](https://leetcode.com/problems/missing-number)) ([Solution](missing-number.c))
 
+- Minimum Length Of String After Deleting Similar Ends ([LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](minimum-length-of-string-after-deleting-similar-ends.c))
+
