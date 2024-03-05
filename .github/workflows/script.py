@@ -20,9 +20,13 @@ def update_readme(directory):
         elif os.path.isfile(item_path) and item != "README.md":
             root_files.append(item)
 
+    myKeys = list(folder_links.keys())
+    myKeys.sort()
+    sorted_dict = {i: folder_links[i] for i in myKeys}
+
     # Create folder and file links
     content = []
-    for folder, files in folder_links.items():
+    for folder, files in sorted_dict.items():
         content.append(f"\n📁 {folder}\n\n")
         for file_name in files:
             link_text, filename = convert_text(file_name)
