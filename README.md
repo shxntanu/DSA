@@ -70,9 +70,9 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Notes
 
-- ([Floyd Circle Detection](notes/floyd-circle-detection.md))
-- ([Qsort](notes/qsort.c))
-- ([Binary Tree Preorder](notes/binary-tree-preorder.cpp))
+- [Floyd Circle Detection](notes/floyd-circle-detection.md)
+- [Qsort](notes/qsort.c)
+- [Binary Tree Preorder](notes/binary-tree-preorder.cpp)
 
 📁 Object Oriented Programming
 
