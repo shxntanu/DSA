@@ -9,7 +9,7 @@ Explanation:
 # Concept: 2 pointers
 * Take 2 pointers i and j, keep adding arr[j] to sum
 * After each addition, check whether the sum is equal to k or not
-    If it is equal, increment the count by 1
+    If it is equal, increment the count by 1 and increment j
     If it is less than k, increment j by 1 and continue the process
     If it is greater than k, decrement the value of sum by arr[i] until it become less than or equal to k
         After doing this, check if the value of sum is equal to k or not
