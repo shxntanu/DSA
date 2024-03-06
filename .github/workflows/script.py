@@ -31,7 +31,7 @@ def update_readme(directory):
         for file_name in files:
             link_text, filename = convert_text(file_name)
             if folder == 'notes': 
-                file_link = f"- {filename} ([Link]({os.path.join(folder, file_name)}))\n"
+                file_link = f"- ([{filename}]({os.path.join(folder, file_name)}))\n"
             else:
                 file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n"
             content.append(file_link)
