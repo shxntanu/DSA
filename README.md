@@ -94,9 +94,9 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Bag Of Tokens ([LeetCode](https://leetcode.com/problems/bag-of-tokens)) ([Solution](two-pointers/bag-of-tokens.cpp))
 - Minimum Length Of String After Deleting Similar Ends ([LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
+- Boats To Save People ([LeetCode](https://leetcode.com/problems/boats-to-save-people)) ([Solution](two-pointers/boats-to-save-people.c))
 
 📁 Miscellaneous
 
 - Missing Number ([LeetCode](https://leetcode.com/problems/missing-number)) ([Solution](missing-number.c))
 - Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
-- Boats To Save People ([LeetCode](https://leetcode.com/problems/boats-to-save-people)) ([Solution](boats-to-save-people.c))
