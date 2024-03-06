@@ -23,11 +23,11 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 ## Notes and Questions
 
 
-📁 OOP
+📁 Oop
 
 - Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](OOP/design-a-food-rating-system.cpp))
 
-📁 array
+📁 Array
 
 - Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
 - Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](array/maximum-product-of-two-elements-in-an-array.c))
@@ -38,47 +38,45 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](array/destination-city.c))
 - Kids With The Greatest Number Of Candies ([LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](array/kids-with-the-greatest-number-of-candies.c))
 
-📁 binary-tree
+📁 Binary Tree
 
 - Find Bottom Left Tree Value ([LeetCode](https://leetcode.com/problems/find-bottom-left-tree-value)) ([Solution](binary-tree/find-bottom-left-tree-value.cpp))
 - Even Odd Tree ([LeetCode](https://leetcode.com/problems/even-odd-tree)) ([Solution](binary-tree/even-odd-tree.cpp))
 - Same Tree ([LeetCode](https://leetcode.com/problems/same-tree)) ([Solution](binary-tree/same-tree.cpp))
 - Diameter Of Binary Tree ([LeetCode](https://leetcode.com/problems/diameter-of-binary-tree)) ([Solution](binary-tree/diameter-of-binary-tree.c))
 
-📁 bit-manipulation
+📁 Bit Manipulation
 
 - Bitwise And Of Numbers Range ([LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range)) ([Solution](bit-manipulation/bitwise-and-of-numbers-range.cpp))
 
-📁 dynamic-programming
+📁 Dynamic Programming
 
 - Cheapest Flights Within K Stops ([LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](dynamic-programming/cheapest-flights-within-k-stops.c))
 - Domino And Tromino Tiling ([LeetCode](https://leetcode.com/problems/domino-and-tromino-tiling)) ([Solution](dynamic-programming/domino-and-tromino-tiling.cpp))
 
-📁 graph
+📁 Graph
 
 - Find All People With Secret ([LeetCode](https://leetcode.com/problems/find-all-people-with-secret)) ([Solution](graph/find-all-people-with-secret.c))
 - Find The Town Judge ([LeetCode](https://leetcode.com/problems/find-the-town-judge)) ([Solution](graph/find-the-town-judge.c))
 - Greatest Common Divisor Traversal ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-traversal)) ([Solution](graph/greatest-common-divisor-traversal.cpp))
 
-📁 linked-list
+📁 Linked List
 
 - Linked List Cycle ([LeetCode](https://leetcode.com/problems/linked-list-cycle)) ([Solution](linked-list/linked-list-cycle.c))
 - Remove Nth Node From End Of List ([LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list)) ([Solution](linked-list/remove-nth-node-from-end-of-list.c))
 
-📁 matrix
+📁 Matrix
 
 - Transpose Matrix ([LeetCode](https://leetcode.com/problems/transpose-matrix)) ([Solution](matrix/transpose-matrix.c))
 - Difference Between Ones And Zeros In Row And Column ([LeetCode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)) ([Solution](matrix/difference-between-ones-and-zeros-in-row-and-column.c))
 - Special Positions In A Binary Matrix ([LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](matrix/special-positions-in-a-binary-matrix.c))
 
-📁 notes
+📁 Notes
 
 - Qsort ([Link](notes/qsort.c))
-
 - Binary Tree Preorder ([Link](notes/binary-tree-preorder.cpp))
 
-
-📁 string-manipulation
+📁 String Manipulation
 
 - Maximum Odd Binary Number ([LeetCode](https://leetcode.com/problems/maximum-odd-binary-number)) ([Solution](string-manipulation/maximum-odd-binary-number.c))
 - Maximum Score After Splitting A String ([LeetCode](https://leetcode.com/problems/maximum-score-after-splitting-a-string)) ([Solution](string-manipulation/maximum-score-after-splitting-a-string.c))
@@ -90,7 +88,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Find First Palindromic String In The Array ([LeetCode](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)) ([Solution](string-manipulation/find-first-palindromic-string-in-the-array.c))
 - Greatest Common Divisor Of Strings ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](string-manipulation/greatest-common-divisor-of-strings.c))
 
-📁 two-pointers
+📁 Two Pointers
 
 - Bag Of Tokens ([LeetCode](https://leetcode.com/problems/bag-of-tokens)) ([Solution](two-pointers/bag-of-tokens.cpp))
 - Minimum Length Of String After Deleting Similar Ends ([LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
