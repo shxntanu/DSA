@@ -27,11 +27,11 @@ def update_readme(directory):
     # Create folder and file links
     content = []
     for folder, files in sorted_dict.items():
-        content.append(f"\n📁 {folder}\n\n")
+        content.append(f"\n📁 {convert_text(folder)[1]}\n\n")
         for file_name in files:
             link_text, filename = convert_text(file_name)
             if folder == 'notes': 
-                file_link = f"- {filename} ([Link]({os.path.join(folder, file_name)}))\n\n"
+                file_link = f"- {filename} ([Link]({os.path.join(folder, file_name)}))\n"
             else:
                 file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n"
             content.append(file_link)
