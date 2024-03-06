@@ -70,6 +70,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Notes
 
+- Floyd Circle Detection ([Link](notes/floyd-circle-detection.md))
 - Qsort ([Link](notes/qsort.c))
 - Binary Tree Preorder ([Link](notes/binary-tree-preorder.cpp))
 
