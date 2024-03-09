@@ -25,6 +25,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Array
 
+- Minimum Common Value ([LeetCode](https://leetcode.com/problems/minimum-common-value)) ([Solution](array/minimum-common-value.c))
 - Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](array/element-appearing-more-than-25-in-sorted-array.c))
 - Lemonade Change ([LeetCode](https://leetcode.com/problems/lemonade-change)) ([Solution](array/lemonade-change.c))
 - Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](array/maximum-product-of-two-elements-in-an-array.c))
@@ -101,6 +102,5 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Miscellaneous
 
-- Minimum Common Value ([LeetCode](https://leetcode.com/problems/minimum-common-value)) ([Solution](minimum-common-value.c))
 - Missing Number ([LeetCode](https://leetcode.com/problems/missing-number)) ([Solution](missing-number.c))
 - Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
