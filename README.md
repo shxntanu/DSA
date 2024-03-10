@@ -35,6 +35,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
 - Count Elements With Maximum Frequency ([LeetCode](https://leetcode.com/problems/count-elements-with-maximum-frequency)) ([Solution](array/count-elements-with-maximum-frequency.c))
 - Kids With The Greatest Number Of Candies ([LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](array/kids-with-the-greatest-number-of-candies.c))
+- Intersection Of Two Arrays ([LeetCode](https://leetcode.com/problems/intersection-of-two-arrays)) ([Solution](array/intersection-of-two-arrays.cpp))
 
 📁 Binary Tree
 
