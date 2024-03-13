@@ -16,9 +16,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 ## Contributors
 
 - [Shantanu Wable](https://github.com/shxntanu)
-- [Tejas Thorat](https://github.com/tejaspthorat)
-- [Ameya Surana](https://github.com/firefeast7)
-- [Krishna Patil](https://github.com/Krishnapatil28113)
 
 ## Notes and Questions
 
