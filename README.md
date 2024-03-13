@@ -84,6 +84,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Design A Food Rating System ([LeetCode](https://leetcode.com/problems/design-a-food-rating-system)) ([Solution](object-oriented-programming/design-a-food-rating-system.cpp))
 
+📁 Prefix Sum
+
+- Find The Pivot Integer ([LeetCode](https://leetcode.com/problems/find-the-pivot-integer)) ([Solution](prefix-sum/find-the-pivot-integer.c))
+
 📁 String Manipulation
 
 - Valid Anagram ([LeetCode](https://leetcode.com/problems/valid-anagram)) ([Solution](string-manipulation/valid-anagram.c))
