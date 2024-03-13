@@ -9,7 +9,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=C%2B%2B&labelColor=darkblue&color=gray)
 ![Static Badge](https://img.shields.io/badge/Rust-gray?style=plastic&logo=rust&labelColor=EF4900&color=gray)
 ![Static Badge](https://img.shields.io/badge/Java-gray?style=plastic&labelColor=F08E07&color=gray)
-![Static Badge](https://img.shields.io/badge/Python-gray?style=plastic&logo=python&labelColor=green&color=gray) <br/>
+![Static Badge](https://img.shields.io/badge/Python-gray?style=plastic&logo=python&labelColor=F7C538&color=gray) <br/>
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Daily-red)
 ![Static Badge](https://img.shields.io/badge/LeetCode%2075-red)
 
