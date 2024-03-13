@@ -1,7 +1,20 @@
 /*
+  0ms Runtime, 5.62mb Memory
+*/
+int pivotInteger(int n) {
+    int total = n*(n+1)/2;
+    int leftSum = 0;
+    for(int i=1; i<=n; i++) {
+        leftSum += i;
+        if(leftSum == total) return i;
+        total -= i;
+    }
+    return -1;
+}
+
+/*
   0ms Runtime, 7.14mb Memory
 */
-
 int pivotInteger(int n) {
     int *leftSum = (int*)calloc(n, sizeof(int));
     int *rightSum = (int*)calloc(n, sizeof(int));
