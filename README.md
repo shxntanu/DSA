@@ -65,7 +65,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Remove Nth Node From End Of List ([LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list)) ([Solution](linked-list/remove-nth-node-from-end-of-list.c))
 - Linked List Cycle ([LeetCode](https://leetcode.com/problems/linked-list-cycle)) ([Solution](linked-list/linked-list-cycle.c))
-- Remove Zero Sum Consecutive Nodes From Linked List ([LeetCode](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)) ([Solution](linked-list/remove-zero-sum-consecutive-nodes-from-linked-list.cpp))
 - Middle Of The Linked List ([LeetCode](https://leetcode.com/problems/middle-of-the-linked-list)) ([Solution](linked-list/middle-of-the-linked-list.c))
 
 📁 Matrix
@@ -86,6 +85,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Prefix Sum
 
+- Remove Zero Sum Consecutive Nodes From Linked List ([LeetCode](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)) ([Solution](prefix-sum/remove-zero-sum-consecutive-nodes-from-linked-list.cpp))
 - Find The Pivot Integer ([LeetCode](https://leetcode.com/problems/find-the-pivot-integer)) ([Solution](prefix-sum/find-the-pivot-integer.c))
 
 📁 String Manipulation
