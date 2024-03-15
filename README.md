@@ -110,6 +110,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 📁 Two Pointers
 
 - Boats To Save People ([LeetCode](https://leetcode.com/problems/boats-to-save-people)) ([Solution](two-pointers/boats-to-save-people.c))
+- Container With Most Water ([LeetCode](https://leetcode.com/problems/container-with-most-water)) ([Solution](two-pointers/container-with-most-water.cpp))
 - Minimum Length Of String After Deleting Similar Ends ([LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
 - Bag Of Tokens ([LeetCode](https://leetcode.com/problems/bag-of-tokens)) ([Solution](two-pointers/bag-of-tokens.cpp))
 
