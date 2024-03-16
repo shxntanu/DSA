@@ -92,6 +92,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Sliding Window
 
+- Contiguous Array ([LeetCode](https://leetcode.com/problems/contiguous-array)) ([Solution](sliding-window/contiguous-array.cpp))
 - Binary Subarrays With Sum ([LeetCode](https://leetcode.com/problems/binary-subarrays-with-sum)) ([Solution](sliding-window/binary-subarrays-with-sum.c))
 
 📁 String Manipulation
