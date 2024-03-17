@@ -18,6 +18,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 ## Notes and Questions
 
 
+📁 Array
+
+- Insert Interval ([LeetCode](https://leetcode.com/problems/insert-interval)) ([Solution](array/insert-interval.rs))
+
 📁 Prefix Sum
 
 - Find The Pivot Integer ([LeetCode](https://leetcode.com/problems/find-the-pivot-integer)) ([Solution](prefix-sum/find-the-pivot-integer.rs))
