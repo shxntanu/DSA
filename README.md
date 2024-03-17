@@ -38,6 +38,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Element Appearing More Than 25 In Sorted Array ([LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](array/element-appearing-more-than-25-in-sorted-array.c))
 - Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
 - Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](array/destination-city.c))
+- Insert Interval ([LeetCode](https://leetcode.com/problems/insert-interval)) ([Solution](array/insert-interval.cpp))
 
 📁 Binary Tree
 
