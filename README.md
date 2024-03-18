@@ -118,5 +118,6 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Miscellaneous
 
+- Minimum Number Of Arrows To Burst Balloons ([LeetCode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)) ([Solution](minimum-number-of-arrows-to-burst-balloons.c))
 - Missing Number ([LeetCode](https://leetcode.com/problems/missing-number)) ([Solution](missing-number.c))
 - Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
