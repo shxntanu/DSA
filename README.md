@@ -31,6 +31,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Kids With The Greatest Number Of Candies ([LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](array/kids-with-the-greatest-number-of-candies.c))
 - Intersection Of Two Arrays ([LeetCode](https://leetcode.com/problems/intersection-of-two-arrays)) ([Solution](array/intersection-of-two-arrays.cpp))
 - Lemonade Change ([LeetCode](https://leetcode.com/problems/lemonade-change)) ([Solution](array/lemonade-change.c))
+- Minimum Number Of Arrows To Burst Balloons ([LeetCode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)) ([Solution](array/minimum-number-of-arrows-to-burst-balloons.c))
 - Squares Of A Sorted Array ([LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array)) ([Solution](array/squares-of-a-sorted-array.c))
 - Maximum Product Of Two Elements In An Array ([LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](array/maximum-product-of-two-elements-in-an-array.c))
 - Count Elements With Maximum Frequency ([LeetCode](https://leetcode.com/problems/count-elements-with-maximum-frequency)) ([Solution](array/count-elements-with-maximum-frequency.c))
@@ -118,6 +119,5 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Miscellaneous
 
-- Minimum Number Of Arrows To Burst Balloons ([LeetCode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)) ([Solution](minimum-number-of-arrows-to-burst-balloons.c))
 - Missing Number ([LeetCode](https://leetcode.com/problems/missing-number)) ([Solution](missing-number.c))
 - Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
