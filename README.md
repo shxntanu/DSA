@@ -65,6 +65,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Find All People With Secret ([LeetCode](https://leetcode.com/problems/find-all-people-with-secret)) ([Solution](graph/find-all-people-with-secret.c))
 - Greatest Common Divisor Traversal ([LeetCode](https://leetcode.com/problems/greatest-common-divisor-traversal)) ([Solution](graph/greatest-common-divisor-traversal.cpp))
 
+📁 Hash Map
+
+- Task Scheduler ([LeetCode](https://leetcode.com/problems/task-scheduler)) ([Solution](hash-map/task-scheduler.c))
+
 📁 Linked List
 
 - Remove Nth Node From End Of List ([LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list)) ([Solution](linked-list/remove-nth-node-from-end-of-list.c))
