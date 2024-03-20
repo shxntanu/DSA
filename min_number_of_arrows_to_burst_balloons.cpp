@@ -8,6 +8,19 @@ Question Link: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-b
 
 Explanation:
 
+* Main thing to focus on here is; there can be multiple balloons which might be overlapping
+* Now, suppose we have 3 balloons that are overlapping and we start iterating in the array
+* We check the condition whether the balloons are intersecting or not, if they are intersecting then we are incrementing
+    the count by 1 because both the intersecting balloons can be burst using 1 arrow
+* Now, if we perform the same operation again on the next pair of balloons, they will also be intersecting because all
+    3 are intersecting
+    * As they both are intersecting, we increment the count by 1 as they both will require only 1 balloon
+* BUT!!!, we are not checking whether the 3rd balloon is intersecting with the first balloon or not
+* If we check, we get that we can burst all the 3 balloons using 1 arrow; BUT now the COUNT IS 2, as we have incremented it twice!!
+
+* So, for solving this problem, we need to take in consideration the intersecting interval between the 2 balloons
+* and then check the further balloon's intersection with this intersecting interval!!
+
 # Concept:
 * Sort the 2d vector on the basis of the first element in every vector
 * After sorting, check whether 2 intervals are intersecting or not
