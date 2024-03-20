@@ -59,6 +59,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Product Of Array Except Self ([LeetCode](https://leetcode.com/problems/product-of-array-except-self)) ([Solution](dynamic-programming/product-of-array-except-self.cpp))
 - Cheapest Flights Within K Stops ([LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](dynamic-programming/cheapest-flights-within-k-stops.c))
 - Domino And Tromino Tiling ([LeetCode](https://leetcode.com/problems/domino-and-tromino-tiling)) ([Solution](dynamic-programming/domino-and-tromino-tiling.cpp))
+- Min Cost Climbing Stairs ([LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs)) ([Solution](dynamic-programming/min-cost-climbing-stairs.c))
 - Climbing Stairs ([LeetCode](https://leetcode.com/problems/climbing-stairs)) ([Solution](dynamic-programming/climbing-stairs.c))
 
 📁 Graph
