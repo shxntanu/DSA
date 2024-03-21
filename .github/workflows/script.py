@@ -33,7 +33,7 @@ def update_readme(directory):
             if folder == 'notes': 
                 file_link = f"- [{filename}]({os.path.join(folder, file_name)})\n"
             else:
-                file_link = f'- {filename} (<a href="https://leetcode.com/problems/{link_text}" target="_blank" rel="noopener noreferrer">Leetcode</a>) ([Solution]({os.path.join(folder, file_name)}))\n'
+                file_link = f'- {filename} ([Leetcode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n'
             content.append(file_link)
 
     # Append root files
@@ -41,7 +41,7 @@ def update_readme(directory):
         content.append("\n📁 Miscellaneous\n\n")
         for file_name in root_files:
             link_text, filename = convert_text(file_name)
-            file_link = f'- {filename} (<a href="https://leetcode.com/problems/{link_text}" target="_blank" rel="noopener noreferrer">Leetcode</a>) ([Solution]({file_name}))\n'
+            file_link = f'- {filename} ([Leetcode](https://leetcode.com/problems/{link_text})) ([Solution]({file_name}))\n'
             content.append(file_link)
 
     # Read existing README content
