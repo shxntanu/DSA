@@ -24,8 +24,6 @@ def update_readme(directory):
     myKeys.sort()
     sorted_dict = {i: folder_links[i] for i in myKeys}
 
-    new_page_str = '{:target="_blank"}'
-
     # Create folder and file links
     content = []
     for folder, files in sorted_dict.items():
@@ -35,7 +33,7 @@ def update_readme(directory):
             if folder == 'notes': 
                 file_link = f"- [{filename}]({os.path.join(folder, file_name)})\n"
             else:
-                file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text}){new_page_str}) ([Solution]({os.path.join(folder, file_name)}))\n"
+                file_link = f'- {filename} (<a href="https://leetcode.com/problems/{link_text}" target="_blank">Leetcode</a>) ([Solution]({os.path.join(folder, file_name)}))\n'
             content.append(file_link)
 
     # Append root files
@@ -43,7 +41,7 @@ def update_readme(directory):
         content.append("\n📁 Miscellaneous\n\n")
         for file_name in root_files:
             link_text, filename = convert_text(file_name)
-            file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text}){new_page_str}) ([Solution]({file_name}))\n"
+            file_link = f"- {filename} (<a href="https://leetcode.com/problems/{link_text}" target="_blank">Leetcode</a>) ([Solution]({file_name}))\n"
             content.append(file_link)
 
     # Read existing README content
