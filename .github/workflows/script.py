@@ -33,7 +33,7 @@ def update_readme(directory):
             if folder == 'notes': 
                 file_link = f"- [{filename}]({os.path.join(folder, file_name)})\n"
             else:
-                file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})\{:target=\"_blank\"\}) ([Solution]({os.path.join(folder, file_name)}))\n"
+                file_link = f"- {filename} ([LeetCode](https://leetcode.com/problems/{link_text})) ([Solution]({os.path.join(folder, file_name)}))\n"
             content.append(file_link)
 
     # Append root files
