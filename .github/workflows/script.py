@@ -37,7 +37,7 @@ def update_readme(directory):
             content.append(file_link)
 
     # Append root files
-    if root_files:
+    if len(root_files) > 0:
         content.append("\n📁 Miscellaneous\n\n")
         for file_name in root_files:
             link_text, filename = convert_text(file_name)
