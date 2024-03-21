@@ -41,6 +41,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Buy Two Chocolates ([LeetCode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
 - Destination City ([LeetCode](https://leetcode.com/problems/destination-city)) ([Solution](array/destination-city.c))
 - Insert Interval ([LeetCode](https://leetcode.com/problems/insert-interval)) ([Solution](array/insert-interval.cpp))
+- Maximum Product Difference Between Two Pairs ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)) ([Solution](array/maximum-product-difference-between-two-pairs.c))
 
 📁 Binary Tree
 
@@ -126,7 +127,3 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Container With Most Water ([LeetCode](https://leetcode.com/problems/container-with-most-water)) ([Solution](two-pointers/container-with-most-water.cpp))
 - Minimum Length Of String After Deleting Similar Ends ([LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
 - Bag Of Tokens ([LeetCode](https://leetcode.com/problems/bag-of-tokens)) ([Solution](two-pointers/bag-of-tokens.cpp))
-
-📁 Miscellaneous
-
-- Maximum Product Difference Between Two Pair ([LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pair)) ([Solution](maximum-product-difference-between-two-pair.c))
