@@ -77,6 +77,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 📁 Linked List
 
 - Reverse Linked List ([Leetcode](https://leetcode.com/problems/reverse-linked-list)) ([Solution](linked-list/reverse-linked-list.c))
+- Reorder List ([Leetcode](https://leetcode.com/problems/reorder-list)) ([Solution](linked-list/reorder-list.cpp))
 - Remove Nth Node From End Of List ([Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list)) ([Solution](linked-list/remove-nth-node-from-end-of-list.c))
 - Linked List Cycle ([Leetcode](https://leetcode.com/problems/linked-list-cycle)) ([Solution](linked-list/linked-list-cycle.c))
 - Middle Of The Linked List ([Leetcode](https://leetcode.com/problems/middle-of-the-linked-list)) ([Solution](linked-list/middle-of-the-linked-list.c))
