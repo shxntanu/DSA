@@ -83,6 +83,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Linked List Cycle ([Leetcode](https://leetcode.com/problems/linked-list-cycle)) ([Solution](linked-list/linked-list-cycle.c))
 - Middle Of The Linked List ([Leetcode](https://leetcode.com/problems/middle-of-the-linked-list)) ([Solution](linked-list/middle-of-the-linked-list.c))
 - Merge In Between Linked Lists ([Leetcode](https://leetcode.com/problems/merge-in-between-linked-lists)) ([Solution](linked-list/merge-in-between-linked-lists.c))
+- Palindrome Linked List ([Leetcode](https://leetcode.com/problems/palindrome-linked-list)) ([Solution](linked-list/palindrome-linked-list.c))
 
 📁 Matrix
 
@@ -129,7 +130,3 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Container With Most Water ([Leetcode](https://leetcode.com/problems/container-with-most-water)) ([Solution](two-pointers/container-with-most-water.cpp))
 - Minimum Length Of String After Deleting Similar Ends ([Leetcode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
 - Bag Of Tokens ([Leetcode](https://leetcode.com/problems/bag-of-tokens)) ([Solution](two-pointers/bag-of-tokens.cpp))
-
-📁 Miscellaneous
-
-- Palindrome Linked List ([Leetcode](https://leetcode.com/problems/palindrome-linked-list)) ([Solution](palindrome-linked-list.c))
