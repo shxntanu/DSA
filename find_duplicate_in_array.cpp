@@ -26,6 +26,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Method 1:
 int findDuplicate(vector<int> &nums)
 {
     sort(nums.begin(), nums.end());
