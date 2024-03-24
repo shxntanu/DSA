@@ -38,6 +38,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Count Elements With Maximum Frequency ([Leetcode](https://leetcode.com/problems/count-elements-with-maximum-frequency)) ([Solution](array/count-elements-with-maximum-frequency.c))
 - Widest Vertical Area Between Two Points Containing No Points ([Leetcode](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)) ([Solution](array/widest-vertical-area-between-two-points-containing-no-points.c))
 - Element Appearing More Than 25 In Sorted Array ([Leetcode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](array/element-appearing-more-than-25-in-sorted-array.c))
+- Find The Duplicate Number ([Leetcode](https://leetcode.com/problems/find-the-duplicate-number)) ([Solution](array/find-the-duplicate-number.c))
 - Buy Two Chocolates ([Leetcode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
 - Destination City ([Leetcode](https://leetcode.com/problems/destination-city)) ([Solution](array/destination-city.c))
 - Insert Interval ([Leetcode](https://leetcode.com/problems/insert-interval)) ([Solution](array/insert-interval.cpp))
