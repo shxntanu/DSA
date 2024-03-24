@@ -28,8 +28,6 @@ using namespace std;
 
 int findDuplicate(vector<int> &nums)
 {
-    //
-
     sort(nums.begin(), nums.end());
     int a;
     if (nums.size() == 0 || nums.size() == 1)
@@ -55,10 +53,11 @@ int findDuplicate(vector<int> &nums)
         }
     }
     return a;
+}
 
-    // Method 2: (HashMap --> O(N) and O(N))
-
-    int n = nums.size();
+// Method 2:
+int findDuplicate(vector<int>& nums) {
+   int n = nums.size();
     int hash[n];
     int i;
     int a;
