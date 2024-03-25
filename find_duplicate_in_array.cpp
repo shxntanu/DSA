@@ -57,8 +57,9 @@ int findDuplicate(vector<int> &nums)
 }
 
 // Method 2:
-int findDuplicate(vector<int>& nums) {
-   int n = nums.size();
+int findDuplicate(vector<int> &nums)
+{
+    int n = nums.size();
     int hash[n];
     int i;
     int a;
