@@ -40,6 +40,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Element Appearing More Than 25 In Sorted Array ([Leetcode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](array/element-appearing-more-than-25-in-sorted-array.c))
 - Find The Duplicate Number ([Leetcode](https://leetcode.com/problems/find-the-duplicate-number)) ([Solution](array/find-the-duplicate-number.c))
 - Buy Two Chocolates ([Leetcode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
+- Find All Duplicates In An Array ([Leetcode](https://leetcode.com/problems/find-all-duplicates-in-an-array)) ([Solution](array/find-all-duplicates-in-an-array.cpp))
 - Destination City ([Leetcode](https://leetcode.com/problems/destination-city)) ([Solution](array/destination-city.c))
 - Insert Interval ([Leetcode](https://leetcode.com/problems/insert-interval)) ([Solution](array/insert-interval.cpp))
 - Maximum Product Difference Between Two Pairs ([Leetcode](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)) ([Solution](array/maximum-product-difference-between-two-pairs.c))
