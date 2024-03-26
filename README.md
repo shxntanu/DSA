@@ -96,6 +96,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 📁 Notes
 
 - [Qsort](notes/qsort.md)
+- [Useful C String Functions](notes/useful-c-string-functions.md)
 - [Floyd Circle Detection](notes/floyd-circle-detection.md)
 - [Binary Tree Preorder](notes/binary-tree-preorder.cpp)
 
