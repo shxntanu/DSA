@@ -131,3 +131,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Container With Most Water ([Leetcode](https://leetcode.com/problems/container-with-most-water)) ([Solution](two-pointers/container-with-most-water.cpp))
 - Minimum Length Of String After Deleting Similar Ends ([Leetcode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
 - Bag Of Tokens ([Leetcode](https://leetcode.com/problems/bag-of-tokens)) ([Solution](two-pointers/bag-of-tokens.cpp))
+
+📁 Miscellaneous
+
+- First Missing Positive ([Leetcode](https://leetcode.com/problems/first-missing-positive)) ([Solution](first-missing-positive.c))
