@@ -29,6 +29,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - Minimum Common Value ([Leetcode](https://leetcode.com/problems/minimum-common-value)) ([Solution](array/minimum-common-value.c))
 - Kids With The Greatest Number Of Candies ([Leetcode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](array/kids-with-the-greatest-number-of-candies.c))
+- First Missing Positive ([Leetcode](https://leetcode.com/problems/first-missing-positive)) ([Solution](array/first-missing-positive.c))
 - Intersection Of Two Arrays ([Leetcode](https://leetcode.com/problems/intersection-of-two-arrays)) ([Solution](array/intersection-of-two-arrays.cpp))
 - Lemonade Change ([Leetcode](https://leetcode.com/problems/lemonade-change)) ([Solution](array/lemonade-change.c))
 - Minimum Number Of Arrows To Burst Balloons ([Leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)) ([Solution](array/minimum-number-of-arrows-to-burst-balloons.c))
@@ -131,7 +132,3 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Container With Most Water ([Leetcode](https://leetcode.com/problems/container-with-most-water)) ([Solution](two-pointers/container-with-most-water.cpp))
 - Minimum Length Of String After Deleting Similar Ends ([Leetcode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
 - Bag Of Tokens ([Leetcode](https://leetcode.com/problems/bag-of-tokens)) ([Solution](two-pointers/bag-of-tokens.cpp))
-
-📁 Miscellaneous
-
-- First Missing Positive ([Leetcode](https://leetcode.com/problems/first-missing-positive)) ([Solution](first-missing-positive.c))
