@@ -112,6 +112,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 📁 Sliding Window
 
 - Contiguous Array ([Leetcode](https://leetcode.com/problems/contiguous-array)) ([Solution](sliding-window/contiguous-array.cpp))
+- Length Of Longest Subarray With At Most K Frequency ([Leetcode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency)) ([Solution](sliding-window/length-of-longest-subarray-with-at-most-k-frequency.c))
 - Binary Subarrays With Sum ([Leetcode](https://leetcode.com/problems/binary-subarrays-with-sum)) ([Solution](sliding-window/binary-subarrays-with-sum.c))
 
 📁 String Manipulation
