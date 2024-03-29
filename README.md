@@ -114,6 +114,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Contiguous Array ([Leetcode](https://leetcode.com/problems/contiguous-array)) ([Solution](sliding-window/contiguous-array.cpp))
 - Length Of Longest Subarray With At Most K Frequency ([Leetcode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency)) ([Solution](sliding-window/length-of-longest-subarray-with-at-most-k-frequency.c))
 - Binary Subarrays With Sum ([Leetcode](https://leetcode.com/problems/binary-subarrays-with-sum)) ([Solution](sliding-window/binary-subarrays-with-sum.c))
+- Count Subarrays Where Max Element Appears At Least K Times ([Leetcode](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times)) ([Solution](sliding-window/count-subarrays-where-max-element-appears-at-least-k-times.c))
 
 📁 String Manipulation
 
