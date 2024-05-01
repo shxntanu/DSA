@@ -120,6 +120,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 String Manipulation
 
+- Reverse Prefix Of Word ([Leetcode](https://leetcode.com/problems/reverse-prefix-of-word)) ([Solution](string-manipulation/reverse-prefix-of-word.c))
 - Reverse Vowels Of A String ([Leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string)) ([Solution](string-manipulation/reverse-vowels-of-a-string.c))
 - Merge Strings Alternatively ([Leetcode](https://leetcode.com/problems/merge-strings-alternatively)) ([Solution](string-manipulation/merge-strings-alternatively.c))
 - Maximum Odd Binary Number ([Leetcode](https://leetcode.com/problems/maximum-odd-binary-number)) ([Solution](string-manipulation/maximum-odd-binary-number.c))
