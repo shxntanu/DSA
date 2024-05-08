@@ -40,6 +40,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Minimum Number Of Arrows To Burst Balloons ([Leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)) ([Solution](array/minimum-number-of-arrows-to-burst-balloons.c))
 - Insert Interval ([Leetcode](https://leetcode.com/problems/insert-interval)) ([Solution](array/insert-interval.cpp))
 - Find The Duplicate Number ([Leetcode](https://leetcode.com/problems/find-the-duplicate-number)) ([Solution](array/find-the-duplicate-number.c))
+- Next Permutation ([Leetcode](https://leetcode.com/problems/next-permutation)) ([Solution](array/next-permutation.cpp))
 - Maximum Product Difference Between Two Pairs ([Leetcode](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)) ([Solution](array/maximum-product-difference-between-two-pairs.c))
 - Buy Two Chocolates ([Leetcode](https://leetcode.com/problems/buy-two-chocolates)) ([Solution](array/buy-two-chocolates.c))
 - Find All Duplicates In An Array ([Leetcode](https://leetcode.com/problems/find-all-duplicates-in-an-array)) ([Solution](array/find-all-duplicates-in-an-array.cpp))
