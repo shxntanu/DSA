@@ -110,6 +110,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Remove Zero Sum Consecutive Nodes From Linked List ([Leetcode](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)) ([Solution](prefix-sum/remove-zero-sum-consecutive-nodes-from-linked-list.cpp))
 - Find The Pivot Integer ([Leetcode](https://leetcode.com/problems/find-the-pivot-integer)) ([Solution](prefix-sum/find-the-pivot-integer.c))
 
+📁 Priority Queue
+
+- Relative Ranks ([Leetcode](https://leetcode.com/problems/relative-ranks)) ([Solution](priority-queue/relative-ranks.cpp))
+
 📁 Sliding Window
 
 - Count Subarrays Where Max Element Appears At Least K Times ([Leetcode](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times)) ([Solution](sliding-window/count-subarrays-where-max-element-appears-at-least-k-times.c))
