@@ -75,6 +75,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Find If Path Exists In Graph ([Leetcode](https://leetcode.com/problems/find-if-path-exists-in-graph)) ([Solution](graph/find-if-path-exists-in-graph.cpp))
 - Greatest Common Divisor Traversal ([Leetcode](https://leetcode.com/problems/greatest-common-divisor-traversal)) ([Solution](graph/greatest-common-divisor-traversal.cpp))
 
+📁 Greedy
+
+- Maximize Happiness Of Selected Children ([Leetcode](https://leetcode.com/problems/maximize-happiness-of-selected-children)) ([Solution](greedy/maximize-happiness-of-selected-children.cpp))
+
 📁 Hash Map
 
 - Task Scheduler ([Leetcode](https://leetcode.com/problems/task-scheduler)) ([Solution](hash-map/task-scheduler.c))
