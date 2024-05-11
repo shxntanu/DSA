@@ -117,6 +117,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Priority Queue
 
+- Minimum Cost To Hire K Workers ([Leetcode](https://leetcode.com/problems/minimum-cost-to-hire-k-workers)) ([Solution](priority-queue/minimum-cost-to-hire-k-workers.cpp))
 - Relative Ranks ([Leetcode](https://leetcode.com/problems/relative-ranks)) ([Solution](priority-queue/relative-ranks.cpp))
 
 📁 Sliding Window
