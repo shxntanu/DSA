@@ -38,6 +38,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Widest Vertical Area Between Two Points Containing No Points ([Leetcode](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)) ([Solution](array/widest-vertical-area-between-two-points-containing-no-points.c))
 - Maximum Product Of Two Elements In An Array ([Leetcode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](array/maximum-product-of-two-elements-in-an-array.c))
 - Minimum Number Of Arrows To Burst Balloons ([Leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)) ([Solution](array/minimum-number-of-arrows-to-burst-balloons.c))
+- Maximum Subarray ([Leetcode](https://leetcode.com/problems/maximum-subarray)) ([Solution](array/maximum-subarray.cpp))
 - Insert Interval ([Leetcode](https://leetcode.com/problems/insert-interval)) ([Solution](array/insert-interval.cpp))
 - Find The Duplicate Number ([Leetcode](https://leetcode.com/problems/find-the-duplicate-number)) ([Solution](array/find-the-duplicate-number.c))
 - Next Permutation ([Leetcode](https://leetcode.com/problems/next-permutation)) ([Solution](array/next-permutation.cpp))
