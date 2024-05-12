@@ -14,11 +14,21 @@ Output:
 
 vector<vector<int>> merge(vector<vector<int>>& intervals) {
     if(intervals.size() <= 1) return intervals;
+
+    // Sort the initial array in ascending order
     sort(intervals.begin(), intervals.end());
     vector<vector<int>> ans;
+
+    // Add the first element of the array
     ans.push_back(intervals[0]);
     for(int i=1; i<intervals.size(); i++) {
+
+        // Check if the first element of the current pair is lesser than the latest element added to the result array
+        // if yes, then it is an overlapping interval, hence merge it and update the upper bound accordingly
+
         if(intervals[i][0] <= ans.back()[1]) ans.back()[1] = max(ans.back()[1], intervals[i][1]);
+
+        // Otherwise they are non-overlapping, hence just add it to the result array
         else ans.push_back(intervals[i]);
     }
     return ans;
