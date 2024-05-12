@@ -97,6 +97,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 📁 Matrix
 
 - Transpose Matrix ([Leetcode](https://leetcode.com/problems/transpose-matrix)) ([Solution](matrix/transpose-matrix.c))
+- Rotate Image ([Leetcode](https://leetcode.com/problems/rotate-image)) ([Solution](matrix/rotate-image.cpp))
 - Difference Between Ones And Zeros In Row And Column ([Leetcode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)) ([Solution](matrix/difference-between-ones-and-zeros-in-row-and-column.c))
 - Special Positions In A Binary Matrix ([Leetcode](https://leetcode.com/problems/special-positions-in-a-binary-matrix)) ([Solution](matrix/special-positions-in-a-binary-matrix.c))
 - Largest Local Values In A Matrix ([Leetcode](https://leetcode.com/problems/largest-local-values-in-a-matrix)) ([Solution](matrix/largest-local-values-in-a-matrix.cpp))
