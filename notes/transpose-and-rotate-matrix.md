@@ -2,9 +2,9 @@
 
 ## Transpose Matrix
 
-Run an outer for loop from 0 to (Size of Matrix - 1) (ROW)
-Run an inner for loop for Outer + 1 to (Size of Matrix - 1) (COLUMN)
-Swap Matrix[ROW][COLUMN], Matrix[COLUMN][ROW]
+- Run an outer for loop from 0 to `(Size of Matrix - 1)` (let's say `row` )
+- Run an inner for loop for Outer + 1 to (Size of Matrix - 1) (let's say `column` )
+- Swap `matrix[row][column], matrix[column][row]`
 
 ```cpp
 // Transpose a matrix
