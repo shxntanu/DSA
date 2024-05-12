@@ -28,6 +28,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 📁 Array
 
 - Missing Number ([Leetcode](https://leetcode.com/problems/missing-number)) ([Solution](array/missing-number.c))
+- Merge Intervals ([Leetcode](https://leetcode.com/problems/merge-intervals)) ([Solution](array/merge-intervals.cpp))
 - Lemonade Change ([Leetcode](https://leetcode.com/problems/lemonade-change)) ([Solution](array/lemonade-change.c))
 - Destination City ([Leetcode](https://leetcode.com/problems/destination-city)) ([Solution](array/destination-city.c))
 - Kids With The Greatest Number Of Candies ([Leetcode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)) ([Solution](array/kids-with-the-greatest-number-of-candies.c))
