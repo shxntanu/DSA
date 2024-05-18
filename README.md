@@ -54,6 +54,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Diameter Of Binary Tree ([Leetcode](https://leetcode.com/problems/diameter-of-binary-tree)) ([Solution](binary-tree/diameter-of-binary-tree.c))
 - Even Odd Tree ([Leetcode](https://leetcode.com/problems/even-odd-tree)) ([Solution](binary-tree/even-odd-tree.cpp))
 - Same Tree ([Leetcode](https://leetcode.com/problems/same-tree)) ([Solution](binary-tree/same-tree.cpp))
+- Distribute Coins In Binary Tree ([Leetcode](https://leetcode.com/problems/distribute-coins-in-binary-tree)) ([Solution](binary-tree/distribute-coins-in-binary-tree.c))
 - Find Bottom Left Tree Value ([Leetcode](https://leetcode.com/problems/find-bottom-left-tree-value)) ([Solution](binary-tree/find-bottom-left-tree-value.cpp))
 - Delete Leaves With A Given Value ([Leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value)) ([Solution](binary-tree/delete-leaves-with-a-given-value.c))
 
