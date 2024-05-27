@@ -48,6 +48,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Merge Intervals ([Leetcode](https://leetcode.com/problems/merge-intervals)) ([Solution](array/merge-intervals.cpp))
 - Minimum Number Of Arrows To Burst Balloons ([Leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)) ([Solution](array/minimum-number-of-arrows-to-burst-balloons.c))
 - Maximum Product Of Two Elements In An Array ([Leetcode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)) ([Solution](array/maximum-product-of-two-elements-in-an-array.c))
+- Special Array With X Elements Greater Than Or Equal X ([Leetcode](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)) ([Solution](array/special-array-with-x-elements-greater-than-or-equal-x.c))
 
 📁 Binary Tree
 
