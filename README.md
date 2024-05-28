@@ -159,3 +159,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Container With Most Water ([Leetcode](https://leetcode.com/problems/container-with-most-water)) ([Solution](two-pointers/container-with-most-water.cpp))
 - Boats To Save People ([Leetcode](https://leetcode.com/problems/boats-to-save-people)) ([Solution](two-pointers/boats-to-save-people.c))
 - Minimum Length Of String After Deleting Similar Ends ([Leetcode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
+
+📁 Miscellaneous
+
+- Get Equal Substrings Within Budget ([Leetcode](https://leetcode.com/problems/get-equal-substrings-within-budget)) ([Solution](get-equal-substrings-within-budget.c))
