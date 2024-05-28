@@ -113,6 +113,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - [Qsort](notes/qsort.md)
 - [Merge Intervals](notes/merge-intervals.md)
 - [Binary Tree Preorder](notes/binary-tree-preorder.cpp)
+- [Two Pointers](notes/two-pointers.md)
 - [Transpose And Rotate Matrix](notes/transpose-and-rotate-matrix.md)
 - [Useful C String Functions](notes/useful-c-string-functions.md)
 - [Floyd Circle Detection](notes/floyd-circle-detection.md)
