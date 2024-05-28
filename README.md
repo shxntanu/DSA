@@ -150,6 +150,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Greatest Common Divisor Of Strings ([Leetcode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](string-manipulation/greatest-common-divisor-of-strings.c))
 - Find First Palindromic String In The Array ([Leetcode](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)) ([Solution](string-manipulation/find-first-palindromic-string-in-the-array.c))
 - Merge Strings Alternatively ([Leetcode](https://leetcode.com/problems/merge-strings-alternatively)) ([Solution](string-manipulation/merge-strings-alternatively.c))
+- Get Equal Substrings Within Budget ([Leetcode](https://leetcode.com/problems/get-equal-substrings-within-budget)) ([Solution](string-manipulation/get-equal-substrings-within-budget.c))
 - Maximum Score After Splitting A String ([Leetcode](https://leetcode.com/problems/maximum-score-after-splitting-a-string)) ([Solution](string-manipulation/maximum-score-after-splitting-a-string.c))
 - Redistribute Characters To Make All Strings Equal ([Leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)) ([Solution](string-manipulation/redistribute-characters-to-make-all-strings-equal.c))
 - Largest Substring Between Two Equal Characters ([Leetcode](https://leetcode.com/problems/largest-substring-between-two-equal-characters)) ([Solution](string-manipulation/largest-substring-between-two-equal-characters.cpp))
@@ -161,7 +162,3 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Container With Most Water ([Leetcode](https://leetcode.com/problems/container-with-most-water)) ([Solution](two-pointers/container-with-most-water.cpp))
 - Boats To Save People ([Leetcode](https://leetcode.com/problems/boats-to-save-people)) ([Solution](two-pointers/boats-to-save-people.c))
 - Minimum Length Of String After Deleting Similar Ends ([Leetcode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)) ([Solution](two-pointers/minimum-length-of-string-after-deleting-similar-ends.c))
-
-📁 Miscellaneous
-
-- Get Equal Substrings Within Budget ([Leetcode](https://leetcode.com/problems/get-equal-substrings-within-budget)) ([Solution](get-equal-substrings-within-budget.c))
