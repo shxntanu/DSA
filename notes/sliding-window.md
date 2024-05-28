@@ -70,3 +70,24 @@ int main() {
     return 0;
 }
 ```
+
+## Explanation
+
+1. Initialize Variables:
+    - `start` and `end` are the pointers representing the window.
+    - `currentSum` keeps track of the sum of elements within the window.
+    - `maxLength` stores the maximum length of a valid subarray found so far.
+
+2. Expand the Window:
+    - Iterate through the array with the end pointer, adding `arr[end]` to `currentSum`.
+
+3. Adjust the Window:
+    - If currentSum exceeds `maxCost`, increment the `start pointer` and subtract `arr[start]` from `currentSum` until `currentSum` is less than or equal to `maxCost`.
+
+4. Track the Result:
+    - Update `maxLength` if the current window size `(end - start + 1)` is greater than the previous `maxLength`.
+
+## Advantages of Sliding Window
+
+- Efficiency: Processes each element at most twice, resulting in O(n) time complexity for many problems.
+- Simplicity: Provides a straightforward way to handle problems involving contiguous subarrays or substrings.
