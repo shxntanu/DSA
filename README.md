@@ -149,6 +149,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Valid Anagram ([Leetcode](https://leetcode.com/problems/valid-anagram)) ([Solution](string-manipulation/valid-anagram.c))
 - Greatest Common Divisor Of Strings ([Leetcode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](string-manipulation/greatest-common-divisor-of-strings.c))
 - Find First Palindromic String In The Array ([Leetcode](https://leetcode.com/problems/find-first-palindromic-string-in-the-array)) ([Solution](string-manipulation/find-first-palindromic-string-in-the-array.c))
+- Number Of Steps To Reduce A Number In Binary Representation To One ([Leetcode](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)) ([Solution](string-manipulation/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.c))
 - Merge Strings Alternatively ([Leetcode](https://leetcode.com/problems/merge-strings-alternatively)) ([Solution](string-manipulation/merge-strings-alternatively.c))
 - Get Equal Substrings Within Budget ([Leetcode](https://leetcode.com/problems/get-equal-substrings-within-budget)) ([Solution](string-manipulation/get-equal-substrings-within-budget.c))
 - Maximum Score After Splitting A String ([Leetcode](https://leetcode.com/problems/maximum-score-after-splitting-a-string)) ([Solution](string-manipulation/maximum-score-after-splitting-a-string.c))
