@@ -41,6 +41,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Count Elements With Maximum Frequency ([Leetcode](https://leetcode.com/problems/count-elements-with-maximum-frequency)) ([Solution](array/count-elements-with-maximum-frequency.c))
 - Merge Sorted Array ([Leetcode](https://leetcode.com/problems/merge-sorted-array)) ([Solution](array/merge-sorted-array.cpp))
 - Element Appearing More Than 25 In Sorted Array ([Leetcode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)) ([Solution](array/element-appearing-more-than-25-in-sorted-array.c))
+- Range Sum Of Sorted Subarray Sums ([Leetcode](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums)) ([Solution](array/range-sum-of-sorted-subarray-sums.cpp))
 - Make Two Arrays Equal By Reversing Subarrays ([Leetcode](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)) ([Solution](array/make-two-arrays-equal-by-reversing-subarrays.cpp))
 - Next Permutation ([Leetcode](https://leetcode.com/problems/next-permutation)) ([Solution](array/next-permutation.cpp))
 - First Missing Positive ([Leetcode](https://leetcode.com/problems/first-missing-positive)) ([Solution](array/first-missing-positive.c))
