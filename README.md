@@ -143,6 +143,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Length Of Longest Subarray With At Most K Frequency ([Leetcode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency)) ([Solution](sliding-window/length-of-longest-subarray-with-at-most-k-frequency.c))
 - Count Subarrays With Fixed Bounds ([Leetcode](https://leetcode.com/problems/count-subarrays-with-fixed-bounds)) ([Solution](sliding-window/count-subarrays-with-fixed-bounds.cpp))
 
+📁 Stack
+
+- Remove Duplicate Letters ([Leetcode](https://leetcode.com/problems/remove-duplicate-letters)) ([Solution](stack/remove-duplicate-letters.cpp))
+
 📁 String Manipulation
 
 - Valid Anagram ([Leetcode](https://leetcode.com/problems/valid-anagram)) ([Solution](string-manipulation/valid-anagram.c))
