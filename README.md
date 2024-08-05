@@ -89,6 +89,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Hash Map
 
+- Kth Distinct String In An Array ([Leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array)) ([Solution](hash-map/kth-distinct-string-in-an-array.cpp))
 - Task Scheduler ([Leetcode](https://leetcode.com/problems/task-scheduler)) ([Solution](hash-map/task-scheduler.c))
 
 📁 Linked List
