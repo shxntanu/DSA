@@ -89,6 +89,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Hash Map
 
+- Minimum Number Of Pushes To Type Word Ii ([Leetcode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii)) ([Solution](hash-map/minimum-number-of-pushes-to-type-word-ii.c))
 - Kth Distinct String In An Array ([Leetcode](https://leetcode.com/problems/kth-distinct-string-in-an-array)) ([Solution](hash-map/kth-distinct-string-in-an-array.cpp))
 - Task Scheduler ([Leetcode](https://leetcode.com/problems/task-scheduler)) ([Solution](hash-map/task-scheduler.c))
 
