@@ -92,11 +92,11 @@ bool cmp(const ii &a,const ii &b)
 const lli mod = 1000000007L;
 // const lli maxN = 1000000007L;
  
-    lli T,n,i,j,k,in,cnt,l,r,u,v,x,y;
-    lli m;
-    string s;
-    vi a;
-    //priority_queue < ii , vector < ii > , CMP > pq;// min priority_queue .
+lli T,n,i,j,k,in,cnt,l,r,u,v,x,y;
+lli m;
+string s;
+vi a;
+//priority_queue < ii , vector < ii > , CMP > pq;// min priority_queue .
  
 int main(void) {
     ios_base::sync_with_stdio(false);
