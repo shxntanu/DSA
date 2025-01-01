@@ -70,10 +70,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 📁 Cf Templates
 
 - Python ([Leetcode](https://leetcode.com/problems/python)) ([Solution](cf-templates/python.py))
-- Cpp ([Leetcode](https://leetcode.com/problems/cpp)) ([Solution](cf-templates/cpp.cpp))
 
 📁 Contest Templates
 
+- Cf Cpp ([Leetcode](https://leetcode.com/problems/cf-cpp)) ([Solution](contest-templates/cf-cpp.cpp))
 - Cc Py ([Leetcode](https://leetcode.com/problems/cc-py)) ([Solution](contest-templates/cc-py.py))
 
 📁 Dynamic Programming
