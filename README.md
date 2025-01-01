@@ -72,6 +72,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Python ([Leetcode](https://leetcode.com/problems/python)) ([Solution](cf-templates/python.py))
 - Cpp ([Leetcode](https://leetcode.com/problems/cpp)) ([Solution](cf-templates/cpp.cpp))
 
+📁 Contest Templates
+
+- Cc Py ([Leetcode](https://leetcode.com/problems/cc-py)) ([Solution](contest-templates/cc-py.py))
+
 📁 Dynamic Programming
 
 - N Th Tribonacci Number ([Leetcode](https://leetcode.com/problems/n-th-tribonacci-number)) ([Solution](dynamic-programming/n-th-tribonacci-number.c))
