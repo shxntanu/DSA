@@ -67,13 +67,10 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Counting Bits ([Leetcode](https://leetcode.com/problems/counting-bits)) ([Solution](bit-manipulation/counting-bits.c))
 - Bitwise And Of Numbers Range ([Leetcode](https://leetcode.com/problems/bitwise-and-of-numbers-range)) ([Solution](bit-manipulation/bitwise-and-of-numbers-range.cpp))
 
-📁 Cf Templates
-
-- Python ([Leetcode](https://leetcode.com/problems/python)) ([Solution](cf-templates/python.py))
-
 📁 Contest Templates
 
 - Cf Cpp ([Leetcode](https://leetcode.com/problems/cf-cpp)) ([Solution](contest-templates/cf-cpp.cpp))
+- Cf Python ([Leetcode](https://leetcode.com/problems/cf-python)) ([Solution](contest-templates/cf-python.py))
 - Cc Py ([Leetcode](https://leetcode.com/problems/cc-py)) ([Solution](contest-templates/cc-py.py))
 
 📁 Dynamic Programming
