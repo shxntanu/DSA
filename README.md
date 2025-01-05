@@ -69,9 +69,9 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 📁 Contest Templates
 
-- Cf Cpp ([Leetcode](https://leetcode.com/problems/cf-cpp)) ([Solution](contest-templates/cf-cpp.cpp))
-- Cf Python ([Leetcode](https://leetcode.com/problems/cf-python)) ([Solution](contest-templates/cf-python.py))
-- Cc Py ([Leetcode](https://leetcode.com/problems/cc-py)) ([Solution](contest-templates/cc-py.py))
+- [Cf Cpp](contest-templates/cf-cpp.cpp)
+- [Cf Python](contest-templates/cf-python.py)
+- [Cc Py](contest-templates/cc-py.py)
 
 📁 Dynamic Programming
 
