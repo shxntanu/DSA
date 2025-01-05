@@ -140,6 +140,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Count Vowel Strings In Ranges ([Leetcode](https://leetcode.com/problems/count-vowel-strings-in-ranges)) ([Solution](prefix-sum/count-vowel-strings-in-ranges.c))
 - Number Of Ways To Split Array ([Leetcode](https://leetcode.com/problems/number-of-ways-to-split-array)) ([Solution](prefix-sum/number-of-ways-to-split-array.c))
 - Find The Pivot Integer ([Leetcode](https://leetcode.com/problems/find-the-pivot-integer)) ([Solution](prefix-sum/find-the-pivot-integer.c))
+- Shifting Letters Ii ([Leetcode](https://leetcode.com/problems/shifting-letters-ii)) ([Solution](prefix-sum/shifting-letters-ii.c))
 - Maximum Score After Splitting A String ([Leetcode](https://leetcode.com/problems/maximum-score-after-splitting-a-string)) ([Solution](prefix-sum/maximum-score-after-splitting-a-string.cpp))
 
 📁 Priority Queue
