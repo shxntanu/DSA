@@ -77,6 +77,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 
 - N Th Tribonacci Number ([Leetcode](https://leetcode.com/problems/n-th-tribonacci-number)) ([Solution](dynamic-programming/n-th-tribonacci-number.c))
 - Product Of Array Except Self ([Leetcode](https://leetcode.com/problems/product-of-array-except-self)) ([Solution](dynamic-programming/product-of-array-except-self.cpp))
+- Minimum Number Of Operations To Move All Balls To Each Box ([Leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box)) ([Solution](dynamic-programming/minimum-number-of-operations-to-move-all-balls-to-each-box.c))
 - Climbing Stairs ([Leetcode](https://leetcode.com/problems/climbing-stairs)) ([Solution](dynamic-programming/climbing-stairs.c))
 - Cheapest Flights Within K Stops ([Leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops)) ([Solution](dynamic-programming/cheapest-flights-within-k-stops.c))
 - Min Cost Climbing Stairs ([Leetcode](https://leetcode.com/problems/min-cost-climbing-stairs)) ([Solution](dynamic-programming/min-cost-climbing-stairs.c))
