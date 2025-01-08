@@ -169,6 +169,7 @@ Collection of DSA Problems from LeetCode and other sources (not as likely) and s
 - Reverse Prefix Of Word ([Leetcode](https://leetcode.com/problems/reverse-prefix-of-word)) ([Solution](string-manipulation/reverse-prefix-of-word.c))
 - Maximum Odd Binary Number ([Leetcode](https://leetcode.com/problems/maximum-odd-binary-number)) ([Solution](string-manipulation/maximum-odd-binary-number.c))
 - Integer To English Words ([Leetcode](https://leetcode.com/problems/integer-to-english-words)) ([Solution](string-manipulation/integer-to-english-words.cpp))
+- Count Prefix And Suffix Pairs I ([Leetcode](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i)) ([Solution](string-manipulation/count-prefix-and-suffix-pairs-i.c))
 - Valid Anagram ([Leetcode](https://leetcode.com/problems/valid-anagram)) ([Solution](string-manipulation/valid-anagram.c))
 - Greatest Common Divisor Of Strings ([Leetcode](https://leetcode.com/problems/greatest-common-divisor-of-strings)) ([Solution](string-manipulation/greatest-common-divisor-of-strings.c))
 - Maximum Score After Splitting A String ([Leetcode](https://leetcode.com/problems/maximum-score-after-splitting-a-string)) ([Solution](string-manipulation/maximum-score-after-splitting-a-string.c))
